@@ -7,6 +7,7 @@
     var isValidURL = (re.test(path) || re2.test(path));
     if (isValidURL){
         localStorage.setItem('path', path);
+        alert("valid url and path =" + path);
     }
     //console.log("path from 404 html - " + localStorage.getItem('path'));
     //alert("path from 404 html - " + localStorage.getItem('path'));
