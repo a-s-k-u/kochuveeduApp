@@ -1,10 +1,10 @@
 <script>
 
     const path = window.location.pathname;
-    alert("path set from 404 file = " + path);
+    console.log("path set from 404 file = " + path);
     var re = new RegExp('/chats/\\w+/\\w+'); 
     var re2 = new RegExp('quiz');
-    var isValidURL = re.test(path) || re2.test(path);
+    var isValidURL = (re.test(path) || re2.test(path));
     if (isValidURL){
         localStorage.setItem('path', path);
     }
