@@ -4,7 +4,7 @@
     //console.log("path set from 404 file = " + path);
     var re = new RegExp('/chats/\\w+/\\w+'); 
     var re2 = new RegExp('quiz');
-    var re3 = new RegExp('familytree');
+    var re3 = new RegExp('familyTree');
     var isValidURL = (re.test(path) || re2.test(path) || re3.test(path));
     if (isValidURL){
         localStorage.setItem('path', path);
