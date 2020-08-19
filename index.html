@@ -7,6 +7,38 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" rel="stylesheet" crossorigin="anonymous" />
   <link href="/kochuveeduApp/styles.css" rel="stylesheet" crossorigin="anonymous" />
+  <style>
+      
+/*
+  .swiper-button-prev {
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%234c71ae'%2F%3E%3C%2Fsvg%3E") !important;
+  }
+
+  
+  .swiper-button-next {
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%234c71ae'%2F%3E%3C%2Fsvg%3E") !important;
+  }
+
+*/
+.swiper-button-next,
+.swiper-button-prev {
+    background-color: white !important;
+    background-color: rgba(255, 255, 255, 0.5) !important;
+    /*right:10px !important;
+    margin:0 !important;
+    padding: 3px !important;
+    width:2px !important;*/
+    color: #000 !important;
+    fill: black !important;
+    stroke: black !important;
+    font-size:20px !important;
+}
+.swiper-button-next1,
+.swiper-button-prev1 {
+    fill:orange;height:20px;width:20px;
+}
+
+  </style>
 <link rel="stylesheet" href="styles.ea18cd3b5ab09a69132c.css"></head>
 <body class="sb-nav-fixed">
   <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
@@ -40,21 +72,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" crossorigin="anonymous"></script>
- <!-- Swiper JS -->
- <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-
- <!-- Initialize Swiper -->
- <script>
-   window.swiper = new Swiper('.swiper-container', {
-     pagination: {
-       el: '.swiper-pagination',
-       clickable: true,
-       renderBullet: function (index, className) {
-         return '<span class="' + className + '">' + (index + 1) + '</span>';
-       },
-     },
-   });
- </script>
+ 
  <script>
     (function($) {
     "use strict";
@@ -74,16 +92,6 @@
     });
     })(jQuery);
 
-    var swiper = new Swiper('.swiper-container', {
-        pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-        renderBullet: function (index, className) {
-            return '<span class="' + className + '">' + (index + 1) + '</span>';
-        },
-        },
-    });
-
-  </script>
-<script src="runtime.e227d1a0e31cbccbf8ec.js" defer></script><script src="polyfills.a4021de53358bb0fec14.js" defer></script><script src="main.15a6457a0c5226883cee.js" defer></script></body>
+</script>
+<script src="runtime.e227d1a0e31cbccbf8ec.js" defer></script><script src="polyfills.a4021de53358bb0fec14.js" defer></script><script src="main.a4b39514c618721e2ac8.js" defer></script></body>
 </html>
