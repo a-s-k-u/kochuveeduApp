@@ -40,7 +40,22 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" crossorigin="anonymous"></script>
-  <script>
+ <!-- Swiper JS -->
+ <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+ <!-- Initialize Swiper -->
+ <script>
+   window.swiper = new Swiper('.swiper-container', {
+     pagination: {
+       el: '.swiper-pagination',
+       clickable: true,
+       renderBullet: function (index, className) {
+         return '<span class="' + className + '">' + (index + 1) + '</span>';
+       },
+     },
+   });
+ </script>
+ <script>
     (function($) {
     "use strict";
 
@@ -58,6 +73,17 @@
         $("body").toggleClass("sb-sidenav-toggled");
     });
     })(jQuery);
+
+    var swiper = new Swiper('.swiper-container', {
+        pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+        renderBullet: function (index, className) {
+            return '<span class="' + className + '">' + (index + 1) + '</span>';
+        },
+        },
+    });
+
   </script>
-<script src="runtime.e227d1a0e31cbccbf8ec.js" defer></script><script src="polyfills.a4021de53358bb0fec14.js" defer></script><script src="main.0f640a0ec048382fc6e9.js" defer></script></body>
+<script src="runtime.e227d1a0e31cbccbf8ec.js" defer></script><script src="polyfills.a4021de53358bb0fec14.js" defer></script><script src="main.851e62eb534f70a35b9b.js" defer></script></body>
 </html>
