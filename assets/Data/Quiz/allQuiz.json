@@ -6,7 +6,7 @@
         "displayPic" : "/assets/Images/Rama.png",
         "status" : "Closed",
         "description" : "Basic Ramayanam Quiz for super juniours",
-        "points" : "7 ചക്രം"
+        "points" : "10 ചക്രം"
     },
     {
         "quizId" :"Corona-Quiz",
@@ -15,6 +15,6 @@
         "displayPic" : "https://arunsreekumar.com/assets/Images/career.png",
         "status" : "Open",
         "description" : "Corona Quiz",
-        "points" : "3 ചക്രം"
+        "points" : "5 ചക്രം"
     }
 ]
