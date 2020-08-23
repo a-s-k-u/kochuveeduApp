@@ -1,7 +1,7 @@
 [
     {
         "quizId"   : "Ramayanam-Quiz",
-        "name" : "Ramayanam Quiz",
+        "name" : "Rama Quiz",
         "createdDate" : "16/08/2020",
         "displayPic" : "/assets/Images/Rama.png",
         "status" : "Closed",
@@ -12,7 +12,7 @@
         "quizId" :"Corona-Quiz",
         "name" : "Corona Quiz",
         "createdDate" : "17/08/2020",
-        "displayPic" : "https://arunsreekumar.com/assets/Images/career.png",
+        "displayPic" : "/assets/Images/corona.png",
         "status" : "Open",
         "description" : "Corona Quiz",
         "points" : "5 ചക്രം"
