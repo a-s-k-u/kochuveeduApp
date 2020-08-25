@@ -11,7 +11,7 @@
         {
             "id": 1,
             "points": 1,
-            "questionEng": "Mahavishnuvinte ethramathe avatharamaanu Raman ?",
+            "questionEng": "Rama is Mahavishnu's ___ avatar ?",
             "questionMal": "Mahavishnuvinte ethramathe avatharamaanu Raman ?",
             "options": [
                 {
@@ -43,7 +43,7 @@
         {
             "id": 2,
             "points": 1,
-            "questionEng": "Ramayanam ezhuthiyathu aaru ?",
+            "questionEng": "Who wrote Ramayanam?",
             "questionMal": "Ramayanam ezhuthiyathu aaru ?",
             "options": [
                 {
@@ -75,7 +75,7 @@
         {
             "id": 3,
             "points": 1,
-            "questionEng": "Raman eviduthe rajavayirunnu ?",
+            "questionEng": "Rama was the King of which Kingdom?",
             "questionMal": "Raman eviduthe rajavayirunnu ?",
             "options": [
                 {
@@ -102,7 +102,7 @@
         {
             "id": 4,
             "points": 1,
-            "questionEng": "Raman ethra varshamaanu vanavasathinu poyathu ?",
+            "questionEng": "For how many years did Rama followed Vanavasa?",
             "questionMal": "Raman ethra varshamaanu vanavasathinu poyathu ?",
             "options": [
                 {
