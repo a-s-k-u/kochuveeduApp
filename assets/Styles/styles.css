@@ -6164,7 +6164,8 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  /*background-color: #343a40 !important;*/
+  background-color: #d05d4d !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
