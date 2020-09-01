@@ -6,7 +6,8 @@
     var re2 = new RegExp('/quiz');
     var re3 = new RegExp('/familyTree');
     var re4 = new RegExp('/activity');
-    var isValidURL = (re.test(path) || re2.test(path) || re3.test(path)|| re4.test(path));
+    var re5 = new RegExp('/activities');
+    var isValidURL = (re.test(path) || re2.test(path) || re3.test(path)|| re4.test(path) || re5.test(path));
     if (isValidURL){
         localStorage.setItem('path', path);
         //alert("valid url and path =" + path);
