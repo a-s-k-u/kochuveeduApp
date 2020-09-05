@@ -14,6 +14,7 @@
             "points": 1,
             "questionEng": "Sri Rama is Mahavishnu's ___ avatar ?",
             "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് ശ്രീ രാമൻ ?",
+            "imgUrl":"",
             "options": [
                 {
                     "id": "1",
@@ -46,6 +47,7 @@
             "points": 1,
             "questionEng": "Who wrote Ramayanam?",
             "questionMal": "രാമായണം എഴുതിയതാര് ?",
+            "imgUrl":"",
             "options": [
                 {
                     "id": "1",
@@ -78,6 +80,7 @@
             "points": 1,
             "questionEng": "Sri Rama was the King of which Kingdom?",
             "questionMal": "ശ്രീ രാമന്റെ രാജ്യം ഏതാണ് ?",
+            "imgUrl":"",
             "options": [
                 {
                     "id": "1",
@@ -105,6 +108,7 @@
             "points": 1,
             "questionEng": "For how many years did Sri Rama did Vanavasa?",
             "questionMal": "ശ്രീ രാമൻ എത്ര വർഷത്തേക്കാണ് വനവാസം നടത്തിയത് ?",
+            "imgUrl":"",
             "options": [
                 {
                     "id": "1",
@@ -137,6 +141,7 @@
             "points": 0,
             "questionEng": "Jambavan was a great monkey king in Rama’s army.True or False ?",
             "questionMal": "ജാംബവാൻ ഒരു വാനര രാജാവായിരുന്നു. ശരിയോ തെറ്റോ ?",
+            "imgUrl":"",
             "options": [
                 {
                     "id": "1",

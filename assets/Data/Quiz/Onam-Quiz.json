@@ -12,8 +12,9 @@
         {
             "id": 1,
             "points": 1,
-            "questionEng": "Which day from Atham to Utradam is Athappookkalam done in swaure pattern ?",
+            "questionEng": "Which day from Atham to Utradam is Athappookkalam done in square pattern ?",
             "questionMal": "അത്തം മുതൽ ഉത്രാടം വരെയുള്ള പൂക്കളങ്ങളിൽ ഒരു ദിവസം ചതുരത്തിലാണ് പൂക്കളമിടുന്നത്. ഏതു നാളിൽ ?",
+            "imgUrl":"/assets/Images/squareAthappookkalam.jpg",
             "options": [
                 {
                     "id": "1",
@@ -46,6 +47,7 @@
             "points": 1,
             "questionEng": "On which day is the biggest Athappokkalam done",
             "questionMal": "ഏതു നാളിലാണ് പൂക്കളം പരമാവധി വലിപ്പത്തിലിടുന്നത് ?",
+            "imgUrl":"",
             "options": [
                 {
                     "id": "1",
@@ -78,6 +80,7 @@
             "points": 1,
             "questionEng": "For whom is 28th Onam celebrated ?",
             "questionMal": "ആർക്കു വേണ്ടിയാണ് 28 ആം ഓണം ആഘോഷിക്കുന്നത്?",
+            "imgUrl":"",
             "options": [
                 {
                     "id": "1",
@@ -110,6 +113,7 @@
             "points": 1,
             "questionEng": "What's the name of Mahabali's son",
             "questionMal": "മഹാബലിയുടെ പുത്രന്റെ പേര് ?",
+            "imgUrl":"",
             "options": [
                 {
                     "id": "1",
@@ -142,6 +146,7 @@
             "points": 1,
             "questionEng": "Vamana is Mahavishnu's __ th Avatar",
             "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "imgUrl":"/assets/Images/vamana.png",
             "options": [
                 {
                     "id": "1",
