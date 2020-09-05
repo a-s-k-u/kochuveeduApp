@@ -17,29 +17,29 @@
             "options": [
                 {
                     "id": "1",
-                    "textEng": "1",
-                    "textMal": "1"
+                    "textEng": "Moolam",
+                    "textMal": "മൂലം"
                 },
                 {
                     "id": "2",
-                    "textEng": "2",
-                    "textMal": "2"
+                    "textEng": "Uthradam",
+                    "textMal": "ഉത്രാടം"
                 },
                 {
                     "id": "3",
-                    "textEng": "7",
-                    "textMal": "7"
+                    "textEng": "After Onam",
+                    "textMal": "ഓണം കഴിഞ്ഞിട്ട്"
                 },
                 {
                     "id": "4",
-                    "textEng": "9",
-                    "textMal": "9"
+                    "textEng": "Before Onam",
+                    "textMal": "ഓണത്തിന് മുന്നേ"
                 }
             ],
-            "correctAns": "3",
+            "correctAns": "1",
             "givenAns" : "",
-            "ansReasonEng":"Rama is Maha Vishnu's 7th Avatar",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ ഏഴാമത്തെ അവതാരമാണ് രാമൻ"
+            "ansReasonEng":"It's on Moolam naal",
+            "ansReasonMal":"മൂലം നാളിലാണ് ചതുരത്തിൽ പൂക്കളം ഇടുന്നതു"
         },
         {
             "id": 2,
@@ -49,56 +49,61 @@
             "options": [
                 {
                     "id": "1",
-                    "textEng": "01",
-                    "textMal": "01"
+                    "textEng": "Moolam",
+                    "textMal": "മൂലം"
                 },
                 {
                     "id": "2",
-                    "textEng": "03",
-                    "textMal": "03"
+                    "textEng": "Uthradam",
+                    "textMal": "ഉത്രാടം"
                 },
                 {
                     "id": "3",
-                    "textEng": "10",
-                    "textMal": "10"
+                    "textEng": "Thursday",
+                    "textMal": "വ്യാഴം"
                 },
                 {
                     "id": "4",
-                    "textEng": "12",
-                    "textMal": "12"
+                    "textEng": "Friday",
+                    "textMal": "വെള്ളി"
                 }
             ],
             "correctAns": "2",
             "givenAns" : "",
-            "ansReasonEng":"Ramayanam is written by Valmiki Maharshi",
-            "ansReasonMal":"വാൽമീകി മഹർഷിയാണ് രാമായണം എഴുതിയത്"
+            "ansReasonEng":"The biggest Athappooklam is made on Uthradam naal, or First Onam or the day before Thiruvonam",
+            "ansReasonMal":"ഉത്രാടം നാളിലാണ് (ഒന്നാം ഓണം , തിരുവോണത്തിന്റെ തലേ ദിവസം ) അത്തപ്പൂക്കളം ഏറ്റവും വലുതായി ഇടുന്നതു"
         },
         {
             "id": 3,
             "points": 1,
-            "questionEng": "What's 28th Onam ?",
-            "questionMal": "എന്താണ് 28 ആം ഓണം ?",
+            "questionEng": "For whom is 28th Onam celebrated ?",
+            "questionMal": "ആർക്കു വേണ്ടിയാണ് 28 ആം ഓണം ആഘോഷിക്കുന്നത്?",
             "options": [
                 {
                     "id": "1",
-                    "textEng": "Kishkinda",
-                    "textMal": "കിഷ്‌കിന്ധ"
+                    "textEng": "Humans",
+                    "textMal": "മനുഷ്യർ"
                 },
                 {
                     "id": "2",
-                    "textEng": "Dwaraka",
-                    "textMal": "ദ്വാരക"
+                    "textEng": "Gods",
+                    "textMal": "ദൈവങ്ങൾ"
                 },
                 {
                     "id": "3",
-                    "textEng": "Ayodhya",
-                    "textMal": "അയോദ്ധ്യ"
+                    "textEng": "Asuras",
+                    "textMal": "അസുരന്മാർ"
+                },
+                {
+                    "id": "4",
+                    "textEng": "Cattle",
+                    "textMal": "കന്നുകാലികൾ"
                 }
             ],
-            "correctAns": "3",
+            "correctAns": "4",
             "givenAns" : "",
-            "ansReasonEng":"Sri Rama was king of Ayodhya",
-            "ansReasonMal":"അയോധ്യയിലെ രാജാവായിരുന്നു ശ്രീ രാമൻ"
+            "ansReasonEng":"The 28th day after Thiruvonam is called 28th Onam and is celebrated for Cattle. It's a big event in Ochira temple.",
+            "ansReasonMal":"തിരുവോണം കഴിഞ്ഞു 28 ആം നാളിലാണ് 28 ആം ഓണം ആഘോഷിക്കുന്നത്... കന്നുകാലികൾക്ക് വേണ്ടിയാണ് ഈ ഒരു ആഘോഷം.. ഓച്ചിറ അമ്പലത്തിൽ ഇത് വലിയ രീതിയിൽ ആണ് ആഘോഷിക്കപ്പെടുന്നത്"
         },
         {
             "id": 4,
@@ -123,14 +128,14 @@
                 },
                 {
                     "id": "4",
-                    "textEng": "10",
-                    "textMal": "10"
+                    "textEng": "Banasuran",
+                    "textMal": "ബാണാസുരൻ"
                 }
             ],
-            "correctAns": "1",
+            "correctAns": "4",
             "givenAns" : "",
-            "ansReasonEng":"Rama spent 14 years under Vanavasa",
-            "ansReasonMal":"ശ്രീ രാമൻ 14 വർഷത്തെ വനവാസമാണ് അനുഷ്ഠിച്ചതു"
+            "ansReasonEng":"Mahabali's son's name is Banasura. His father is Virochanan and his great grandfather is Prahladan",
+            "ansReasonMal":"മഹാബലിയുടെ പുത്രന്റെ പേര് ബാണാസുരൻ എന്നാണ്... മഹാബലിയുടെ പിതാവ് വിരോചനനും, മുത്തച്ഛൻ പ്രഹ്ളാദനും ആകുന്നു"
         },
         {
             "id": 5,
