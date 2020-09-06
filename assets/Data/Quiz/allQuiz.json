@@ -4,7 +4,7 @@
         "name" : "Rama Quiz",
         "createdDate" : "16/08/2020",
         "displayPic" : "/assets/Images/Rama.png",
-        "status" : "Closed",
+        "status" : "Open",
         "description" : "Basic Ramayanam Quiz for super juniours",
         "points" : "10 ചക്രം"
     },
@@ -22,7 +22,7 @@
         "name" : "Corona Quiz",
         "createdDate" : "17/08/2020",
         "displayPic" : "/assets/Images/corona.png",
-        "status" : "Open",
+        "status" : "TODO",
         "description" : "Corona Quiz",
         "points" : "10 ചക്രം"
     }
