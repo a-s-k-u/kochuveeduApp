@@ -1,12 +1,5 @@
 {
-    "completedUsers": [
-        {
-            "name": "abcd"
-        },
-        {
-            "name": "efgh"
-        }
-    ],
+    "location": "/activities/allQuiz/basic/OnamQuiz/completedUsers/$uid",
     "passPercentage" : 40,
     "questions": [
         {

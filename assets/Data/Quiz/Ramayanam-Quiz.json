@@ -1,12 +1,5 @@
 {
-    "completedUsers": [
-        {
-            "name": "abcd"
-        },
-        {
-            "name": "efgh"
-        }
-    ],
+    "location": "/activities/allQuiz/basic/RamayanamQuiz/completedUsers/$uid",
     "passPercentage" : 70,
     "questions": [
         {
