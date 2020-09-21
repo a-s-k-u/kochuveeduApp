@@ -12,8 +12,12 @@
     var re8 = new RegExp('/polls');
     var re9 = new RegExp('/products');
     var re10 = new RegExp('/pendingActivities');
-   
-    var isValidURL = (re.test(path) || re2.test(path) || re3.test(path)|| re4.test(path) || re5.test(path) || re6.test(path) || re7.test(path) || re8.test(path) || re9.test(path) || re10.test(path));
+    var re11 = new RegExp('/myAccount');
+    var re12 = new RegExp('/allUsers');
+    var re13 = new RegExp('/pendingTransactions');
+    var re14 = new RegExp('/allTransactions');
+
+    var isValidURL = (re.test(path) || re2.test(path) || re3.test(path)|| re4.test(path) || re5.test(path) || re6.test(path) || re7.test(path) || re8.test(path) || re9.test(path) || re10.test(path) || re11.test(path) || re12.test(path) || re13.test(path) || re14.test(path));
     if (isValidURL){
         localStorage.setItem('path', path);
         //alert("valid url and path =" + path);
