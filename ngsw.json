@@ -1,0 +1,142 @@
+{
+  "configVersion": 1,
+  "timestamp": 1602855735559,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.a1402021c9ba0e1f8739.js",
+        "/manifest.webmanifest",
+        "/polyfills.25f0f5febeda0fd4d106.js",
+        "/runtime.e227d1a0e31cbccbf8ec.js",
+        "/scripts.24b16eee7a6c3bd1d2dc.js",
+        "/styles.95f5dd15ab144df101de.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/Data/Quiz/Onam-Quiz.json",
+        "/assets/Data/Quiz/Ramayanam-Quiz.json",
+        "/assets/Data/Quiz/allQuiz.json",
+        "/assets/Images/01.JPG",
+        "/assets/Images/02.JPG",
+        "/assets/Images/03.JPG",
+        "/assets/Images/04.JPG",
+        "/assets/Images/05.JPG",
+        "/assets/Images/06.JPG",
+        "/assets/Images/07.JPG",
+        "/assets/Images/08.JPG",
+        "/assets/Images/192-original.jpg",
+        "/assets/Images/IMG_0064.JPG",
+        "/assets/Images/Onam.jpg",
+        "/assets/Images/Onam.png",
+        "/assets/Images/Rama.png",
+        "/assets/Images/chakramIcon.png",
+        "/assets/Images/chakramIcon2.png",
+        "/assets/Images/circleImage.png",
+        "/assets/Images/circleImage1.png",
+        "/assets/Images/copper-half-chuckram-of-rama-varma-vi.jpg",
+        "/assets/Images/corona.jpg",
+        "/assets/Images/corona.png",
+        "/assets/Images/highlight.png",
+        "/assets/Images/images.jpeg",
+        "/assets/Images/kochuveedu.ico",
+        "/assets/Images/kochuveedu.jpg",
+        "/assets/Images/squareAthappookkalam.jpg",
+        "/assets/Images/vamana.png",
+        "/assets/Styles/styles.css",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/Data/Quiz/Onam-Quiz.json": "ce9a2cf32ac9435896b76535ef58ef590a1c5aae",
+    "/assets/Data/Quiz/Ramayanam-Quiz.json": "3f04cf2c40451138e28ea06251ea4b68655f082e",
+    "/assets/Data/Quiz/allQuiz.json": "bff1df751af5fd5dad060a0f2b61f4697d3a38c2",
+    "/assets/Images/01.JPG": "924eb0cc6391fe96f59664dcb30b0db9dccc5864",
+    "/assets/Images/02.JPG": "2184deb98cf6b343311d5ba73f7c461a88d75ef9",
+    "/assets/Images/03.JPG": "4837edbe9d95f6ff8033c8bec5a5cb9ffb7acb5f",
+    "/assets/Images/04.JPG": "f5ae5a7d4c858dbd6d693c5fdcc2978bc66e855c",
+    "/assets/Images/05.JPG": "3b500d2173825fa263d5a50f06e50e59194cfe05",
+    "/assets/Images/06.JPG": "10c829845bf2a1de6ab3a976a224c8ddfa995124",
+    "/assets/Images/07.JPG": "fa03dea16400ede1c9114a1dcf891240be1adee2",
+    "/assets/Images/08.JPG": "6a928b7a7a60f1f594ce8ef1877ee5774b5a7186",
+    "/assets/Images/192-original.jpg": "c63fc923433fbadc63f38bc9a311f6d92fa4504b",
+    "/assets/Images/IMG_0064.JPG": "f257d34f48ccd0b28e0972f36e58b3b0fda77cb9",
+    "/assets/Images/Onam.jpg": "ef788d56908b035109f9509c605920b11756e23c",
+    "/assets/Images/Onam.png": "4ffab571fc4222d573a2050267d92c01f291a98d",
+    "/assets/Images/Rama.png": "c4c0ca7370fada0ee76f7612c05964ae0a995de1",
+    "/assets/Images/chakramIcon.png": "a5c3b0273a43a9baf76c281a12f30f7231c13d34",
+    "/assets/Images/chakramIcon2.png": "fd9c1a9a2a3c29510d1609f38a115de9cc7fb294",
+    "/assets/Images/circleImage.png": "2164a6b3a7710539010e25e8074695a0169f14f2",
+    "/assets/Images/circleImage1.png": "9d84b2d9d29e15e5922851dd17ad82470bfac220",
+    "/assets/Images/copper-half-chuckram-of-rama-varma-vi.jpg": "b0000c80afafd831a0be2bd83a80f2bee85dc309",
+    "/assets/Images/corona.jpg": "8376f6056a03f42a3ad4a77f5fc1265175e995d2",
+    "/assets/Images/corona.png": "f228883617e552cae8f73f00e394ef9e8d68b5e8",
+    "/assets/Images/highlight.png": "fdd08f7598f7f71310fef932072066c0f3588c7f",
+    "/assets/Images/images.jpeg": "42a28f638f83bb7cc5a87e6ce75e16d95b3fda9d",
+    "/assets/Images/kochuveedu.ico": "8f46ab2c6291d1ac6ba913a0579e93f0f6fbc891",
+    "/assets/Images/kochuveedu.jpg": "70367faa4767236b40eaf4a68891156fca9ca8a2",
+    "/assets/Images/squareAthappookkalam.jpg": "27a2f3cfc2709f39df2ba5c59ad903c9b0a3345c",
+    "/assets/Images/vamana.png": "61c515599dccfc0ce17e72a15ea9b838201fc7c3",
+    "/assets/Styles/styles.css": "ac83e0cfadda8f03c0f02d9132b9b3aa4b72262f",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "5adda913953f7f4ac42bc90697e32f9f5b54521a",
+    "/main.a1402021c9ba0e1f8739.js": "f15b73e6fcaa30190a045d17e2c1636a2fd27537",
+    "/manifest.webmanifest": "bde2034ee445b10aa2a572aa617626042516b48b",
+    "/polyfills.25f0f5febeda0fd4d106.js": "c0a90ad18c5d78e88361db1364ac8564b1ceea89",
+    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/scripts.24b16eee7a6c3bd1d2dc.js": "e2e9cc82af11c97781ec2ab6840afb709de7445e",
+    "/styles.95f5dd15ab144df101de.css": "4af60863b78133a094cb64229598983c967b2582"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
