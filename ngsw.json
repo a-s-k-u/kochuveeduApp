@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1602857215250,
+  "timestamp": 1602860802606,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,12 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
+        "/4.8a9496b2ed4f07b7c745.js",
+        "/combined-sw.js",
         "/favicon.ico",
+        "/firebase-messaging-sw.js",
         "/index.html",
-        "/main.a1402021c9ba0e1f8739.js",
+        "/main.1cd10dc00e0a944e11d9.js",
         "/manifest.webmanifest",
         "/polyfills.25f0f5febeda0fd4d106.js",
-        "/runtime.e227d1a0e31cbccbf8ec.js",
+        "/runtime.d91c438282c0a6381b5f.js",
         "/scripts.24b16eee7a6c3bd1d2dc.js",
         "/styles.95f5dd15ab144df101de.css"
       ],
@@ -74,6 +77,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/4.8a9496b2ed4f07b7c745.js": "e51eb4cdcfe229788b521a8ed285f65bb3440cf5",
     "/assets/Data/Quiz/Onam-Quiz.json": "ce9a2cf32ac9435896b76535ef58ef590a1c5aae",
     "/assets/Data/Quiz/Ramayanam-Quiz.json": "3f04cf2c40451138e28ea06251ea4b68655f082e",
     "/assets/Data/Quiz/allQuiz.json": "bff1df751af5fd5dad060a0f2b61f4697d3a38c2",
@@ -112,12 +116,14 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/combined-sw.js": "8112fc507def9bc58605f5446997e569a7cc6dcb",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "314378f03f3ab34d6212de17b495ada10b3c0754",
-    "/main.a1402021c9ba0e1f8739.js": "f15b73e6fcaa30190a045d17e2c1636a2fd27537",
-    "/manifest.webmanifest": "bde2034ee445b10aa2a572aa617626042516b48b",
+    "/firebase-messaging-sw.js": "81b4753f47eec55cd981cb933192dc937cf20c82",
+    "/index.html": "20f2968c67992e034671feb0929b2df3501eb66c",
+    "/main.1cd10dc00e0a944e11d9.js": "a86e91d1a6168f1eb84b3ccb6ff51097486e2cc6",
+    "/manifest.webmanifest": "c4dbd61d7635814033089ea5df7b551758df46d6",
     "/polyfills.25f0f5febeda0fd4d106.js": "c0a90ad18c5d78e88361db1364ac8564b1ceea89",
-    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime.d91c438282c0a6381b5f.js": "28999e5d7f7377ff828ccfbd4ee8da42ee4b1023",
     "/scripts.24b16eee7a6c3bd1d2dc.js": "e2e9cc82af11c97781ec2ab6840afb709de7445e",
     "/styles.95f5dd15ab144df101de.css": "4af60863b78133a094cb64229598983c967b2582"
   },
