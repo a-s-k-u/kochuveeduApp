@@ -1,0 +1,303 @@
+{
+    "location": "/activities/allQuiz/basic/KumbhamQuiz/completedUsers/$uid",
+    "passPercentage" : 80,
+    "questions": [
+        {
+            "id": 1,
+            "points": 1,
+            "questionEng": "Corona Virus is called COVID 19. What does 19 stand for ?",
+            "questionMal": "അത്തം മുതൽ ഉത്രാടം വരെയുള്ള പൂക്കളങ്ങളിൽ ഒരു ദിവസം ചതുരത്തിലാണ് പൂക്കളമിടുന്നത്. ഏതു നാളിൽ ?",
+            "imgUrl":"/assets/Images/squareAthappookkalam.jpg",
+            "options": [
+                {
+                    "id": "1",
+                    "textEng": "Number of strands in the virus",
+                    "textMal": "മൂലം"
+                },
+                {
+                    "id": "2",
+                    "textEng": "Year 2019",
+                    "textMal": "ഉത്രാടം"
+                },
+                {
+                    "id": "3",
+                    "textEng": "It will live only for 19 days",
+                    "textMal": "ഓണം കഴിഞ്ഞിട്ട്"
+                },
+                {
+                    "id": "4",
+                    "textEng": "According to Chinese Numerology, 19 is a lucky number.",
+                    "textMal": "ഓണത്തിന് മുന്നേ"
+                }
+            ],
+            "correctAns": "1",
+            "givenAns" : "",
+            "ansReasonEng":"It's on Moolam naal",
+            "ansReasonMal":"മൂലം നാളിലാണ് ചതുരത്തിൽ പൂക്കളം ഇടുന്നതു"
+        },
+        {
+            "id": 2,
+            "points": 1,
+            "questionEng": "Vaccines are substances that create immune reaction in our body. What can be used to make Corona Vaccine ?",
+            "questionMal": "ഏതു നാളിലാണ് പൂക്കളം പരമാവധി വലിപ്പത്തിലിടുന്നത് ?",
+            "imgUrl":"",
+            "options": [
+                {
+                    "id": "1",
+                    "textEng": "Chimpanzee Flu Virus",
+                    "textMal": "മൂലം"
+                },
+                {
+                    "id": "2",
+                    "textEng": "Dead Corona Virus",
+                    "textMal": "ഉത്രാടം"
+                },
+                {
+                    "id": "3",
+                    "textEng": "Substance that creates corona virus protein",
+                    "textMal": "വ്യാഴം"
+                },
+                {
+                    "id": "4",
+                    "textEng": "All of the above",
+                    "textMal": "വെള്ളി"
+                }
+            ],
+            "correctAns": "2",
+            "givenAns" : "",
+            "ansReasonEng":"The biggest Athappooklam is made on Uthradam naal, or First Onam or the day before Thiruvonam",
+            "ansReasonMal":"ഉത്രാടം നാളിലാണ് (ഒന്നാം ഓണം , തിരുവോണത്തിന്റെ തലേ ദിവസം ) അത്തപ്പൂക്കളം ഏറ്റവും വലുതായി ഇടുന്നതു"
+        },
+        {
+            "id": 3,
+            "points": 1,
+            "questionEng": "Social Media is now an integral part of our lives. Which among these is the only Indian App that is popular.",
+            "questionMal": "ആർക്കു വേണ്ടിയാണ് 28 ആം ഓണം ആഘോഷിക്കുന്നത്?",
+            "imgUrl":"",
+            "options": [
+                {
+                    "id": "1",
+                    "textEng": "Twitter",
+                    "textMal": "മനുഷ്യർ"
+                },
+                {
+                    "id": "2",
+                    "textEng": "Instagram",
+                    "textMal": "ദൈവങ്ങൾ"
+                },
+                {
+                    "id": "3",
+                    "textEng": "Signal",
+                    "textMal": "അസുരന്മാർ"
+                },
+                {
+                    "id": "4",
+                    "textEng": "Koo",
+                    "textMal": "കന്നുകാലികൾ"
+                }
+            ],
+            "correctAns": "4",
+            "givenAns" : "",
+            "ansReasonEng":"The 28th day after Thiruvonam is called 28th Onam and is celebrated for Cattle. It's a big event in Ochira temple.",
+            "ansReasonMal":"തിരുവോണം കഴിഞ്ഞു 28 ആം നാളിലാണ് 28 ആം ഓണം ആഘോഷിക്കുന്നത്... കന്നുകാലികൾക്ക് വേണ്ടിയാണ് ഈ ഒരു ആഘോഷം.. ഓച്ചിറ അമ്പലത്തിൽ ഇത് വലിയ രീതിയിൽ ആണ് ആഘോഷിക്കപ്പെടുന്നത്"
+        },
+        {
+            "id": 4,
+            "points": 1,
+            "questionEng": "Halal in Arabic means pure. So, why are Hindus and Christians opposing Halal now ?  Select the most correct answer",
+            "questionMal": "മഹാബലിയുടെ പുത്രന്റെ പേര് ?",
+            "imgUrl":"",
+            "options": [
+                {
+                    "id": "1",
+                    "textEng": "Muslim Cleric spit on Halal food before anyone can eat it. So, this spreads Corona.",
+                    "textMal": "കശ്യപ മഹർഷി"
+                },
+                {
+                    "id": "2",
+                    "textEng": "Animals are killed by slitting the throat and they endure so much pain.",
+                    "textMal": "പ്രഹ്ളാദൻ"
+                },
+                {
+                    "id": "3",
+                    "textEng": "Halal has two L s. Oru ellu koodi poyathu kondu.",
+                    "textMal": "ധൃഷ്ടധ്യുമ്നൻ"
+                },
+                {
+                    "id": "4",
+                    "textEng": "‘Pure’ in Halal does not mean Healthy or Good. It just means pure as per Islamic laws. By consuming Halal products Hindus and Christians are forced to follow Islamic Sharia law and in a secular Country like India this cannot be accepted or tolerated.",
+                    "textMal": "ബാണാസുരൻ"
+                }
+            ],
+            "correctAns": "4",
+            "givenAns" : "",
+            "ansReasonEng":"Mahabali's son's name is Banasura. His father is Virochanan and his great grandfather is Prahladan",
+            "ansReasonMal":"മഹാബലിയുടെ പുത്രന്റെ പേര് ബാണാസുരൻ എന്നാണ്... മഹാബലിയുടെ പിതാവ് വിരോചനനും, മുത്തച്ഛൻ പ്രഹ്ളാദനും ആകുന്നു"
+        },
+        {
+            "id": 5,
+            "points": 1,
+            "questionEng": "India is the first country to put a satellite in Mars on the first attempt.  Which is the second country to do so.",
+            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "imgUrl":"/assets/Images/vamana.png",
+            "options": [
+                {
+                    "id": "1",
+                    "textEng": "Japan",
+                    "textMal": "10"
+                },
+                {
+                    "id": "2",
+                    "textEng": "UAE",
+                    "textMal": "5"
+                },
+                {
+                    "id": "3",
+                    "textEng": "Canada",
+                    "textMal": "4"
+                },
+                {
+                    "id": "4",
+                    "textEng": "China",
+                    "textMal": "2"
+                }
+            ],
+            "correctAns": "2",
+            "givenAns" : "",
+            "ansReasonEng":"Vamana is Mahavishnu's 5th Avatar. (1)Matsya, (2)Koorma, (3)Varaha, (4)Narasimha, (5)Vamana , (6)Parasurama, (7) Sri Rama ,(8) Balarama, (9) Sri Krishna , (10) Kalki ",
+            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+        },
+        {
+            "id": 5,
+            "points": 1,
+            "questionEng": "Which country has the majority of women in Science",
+            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "imgUrl":"/assets/Images/vamana.png",
+            "options": [
+                {
+                    "id": "1",
+                    "textEng": "Japan",
+                    "textMal": "10"
+                },
+                {
+                    "id": "2",
+                    "textEng": "UAE",
+                    "textMal": "5"
+                },
+                {
+                    "id": "3",
+                    "textEng": "Canada",
+                    "textMal": "4"
+                },
+                {
+                    "id": "4",
+                    "textEng": "China",
+                    "textMal": "2"
+                }
+            ],
+            "correctAns": "2",
+            "givenAns" : "",
+            "ansReasonEng":"National Science Day is on Feb 25",
+            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+        },
+        {
+            "id": 5,
+            "points": 1,
+            "questionEng": "Which event holds record for the single largest gathering of women for a religious activity",
+            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "imgUrl":"/assets/Images/vamana.png",
+            "options": [
+                {
+                    "id": "1",
+                    "textEng": "Japan",
+                    "textMal": "10"
+                },
+                {
+                    "id": "2",
+                    "textEng": "UAE",
+                    "textMal": "5"
+                },
+                {
+                    "id": "3",
+                    "textEng": "Canada",
+                    "textMal": "4"
+                },
+                {
+                    "id": "4",
+                    "textEng": "China",
+                    "textMal": "2"
+                }
+            ],
+            "correctAns": "2",
+            "givenAns" : "",
+            "ansReasonEng":"National Science Day is on Feb 25",
+            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+        },
+        {
+            "id": 5,
+            "points": 1,
+            "questionEng": "Who is called the father of Indian Navy",
+            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "imgUrl":"/assets/Images/vamana.png",
+            "options": [
+                {
+                    "id": "1",
+                    "textEng": "Japan",
+                    "textMal": "10"
+                },
+                {
+                    "id": "2",
+                    "textEng": "UAE",
+                    "textMal": "5"
+                },
+                {
+                    "id": "3",
+                    "textEng": "Canada",
+                    "textMal": "4"
+                },
+                {
+                    "id": "4",
+                    "textEng": "China",
+                    "textMal": "2"
+                }
+            ],
+            "correctAns": "2",
+            "givenAns" : "",
+            "ansReasonEng":"National Science Day is on Feb 25",
+            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+        },
+        {
+            "id": 5,
+            "points": 1,
+            "questionEng": "Which Avatar of Lord Shiva promoted gender equality?",
+            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "imgUrl":"/assets/Images/vamana.png",
+            "options": [
+                {
+                    "id": "1",
+                    "textEng": "Vanar Avatar",
+                    "textMal": "10"
+                },
+                {
+                    "id": "2",
+                    "textEng": "Matsya Avatar",
+                    "textMal": "5"
+                },
+                {
+                    "id": "3",
+                    "textEng": "Nataraja Avatar",
+                    "textMal": "4"
+                },
+                {
+                    "id": "4",
+                    "textEng": "Ardhanareshwar Avatar",
+                    "textMal": "2"
+                }
+            ],
+            "correctAns": "2",
+            "givenAns" : "",
+            "ansReasonEng":"National Science Day is on Feb 25",
+            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+        }
+    ]
+}
