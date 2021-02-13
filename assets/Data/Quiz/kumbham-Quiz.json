@@ -5,138 +5,6 @@
         {
             "id": 1,
             "points": 1,
-            "questionEng": "Corona Virus is also known as COVID 19. What does 19 stand for ?",
-            "questionMal": "COVID 19 ലെ 19 എന്തിനെ സൂചിപ്പിക്കുന്നതാണ്  ?",
-            "imgUrl":"/assets/Images/corona.png",
-            "options": [
-                {
-                    "id": "1",
-                    "textEng": "Number of strands in the virus",
-                    "textMal": "വൈറസിലെ dna യുടെ എണ്ണം "
-                },
-                {
-                    "id": "2",
-                    "textEng": "Year 2019",
-                    "textMal": "2019 വർഷം "
-                },
-                {
-                    "id": "3",
-                    "textEng": "Virus live only for 19 days",
-                    "textMal": "വൈറസിന് വെറും 19 ദിവസമേ ആയുസുള്ളൂ "
-                },
-                {
-                    "id": "4",
-                    "textEng": "According to Chinese Numerology, 19 is a lucky number.",
-                    "textMal": "ചൈനീസ് ജ്യോതിശാസ്ത്രം അനുസരിച്ചു 19  ഒരു ഭാഗ്യ നമ്പർ ആയോണ്ട്"
-                }
-            ],
-            "correctAns": "2",
-            "givenAns" : "",
-            "ansReasonEng":"Corona Virus was first discovered on Dec 2019.",
-            "ansReasonMal":"കൊറോണ വൈറസ് ആദ്യമായി കണ്ടു പിടിക്കപ്പെടുന്നത് Dec 2019 നാണു. അതാണ് കൊറോണ വൈറസ് 2019 ചുരുക്കി COVID -19 എന്നായതു"
-        },
-        {
-            "id": 2,
-            "points": 1,
-            "questionEng": "A couple in Kerala want to name their new born child after a COVID Vaccine that saved their Village. What is the most likely name you think they'll use.",
-            "questionMal": "കേരളത്തിലെ ഒരു ഗ്രാമത്തിലെ ഒരു കുടുംബം തങ്ങൾക്കു ജനിച്ച കുട്ടിക്ക് ഗ്രാമത്തെ രക്ഷപ്പെടുത്തിയ ഒരു വാക്‌സിന്റെ പേര് ആണ് നൽകാൻ തീരുമാനിച്ചത്. ഏതായിരിക്കും ആ പേര് ?",
-            "imgUrl":"",
-            "options": [
-                {
-                    "id": "1",
-                    "textEng": "Pfizer Raja",
-                    "textMal": "Pfizer Raja"
-                },
-                {
-                    "id": "2",
-                    "textEng": "COVAXIN Janaki",
-                    "textMal": "COVAXIN Janaki"
-                },
-                {
-                    "id": "3",
-                    "textEng": "Sputnik Namboothiri",
-                    "textMal": "Sputnik Namboothiri"
-                },
-                {
-                    "id": "4",
-                    "textEng": "COVISHIELD Bhairavi",
-                    "textMal": "COVISHIELD Bhairavi"
-                }
-            ],
-            "correctAns": "2",
-            "givenAns" : "",
-            "ansReasonEng":"Because COVAXIN is India's first Indigenous COVID-19 Vaccine.",
-            "ansReasonMal":"കോവാക്സിൻ ഭാരതം തനതായി ഉണ്ടാക്കി എടുത്ത വാക്‌സിൻ ആയോണ്ട് തന്നെ അതായിരിക്കും കൂടുതൽ യോജിക്കുന്ന പേര്."
-        },
-        {
-            "id": 3,
-            "points": 1,
-            "questionEng": "Vaccines increase human immunity. What does a typical Corona Vaccine contain ?",
-            "questionMal": "വാക്സിനുകൾ നമ്മുടെ രോഗ പ്രതിരോധ ശക്തി വർധിപ്പിക്കും... കൊറോണ വാക്‌സിനുകളിൽ കാണപ്പെടുന്ന വസ്തു ഏതാണ് ?",
-            "imgUrl":"",
-            "options": [
-                {
-                    "id": "1",
-                    "textEng": "Virus that cause flu in Chimpanzee",
-                    "textMal": "ചിമ്പാൻസികളിൽ ജലദോഷം ഉണ്ടാക്കുന്ന വൈറസ്"
-                },
-                {
-                    "id": "2",
-                    "textEng": "Dead Corona Virus",
-                    "textMal": "ചത്ത കൊറോണ വൈറസ് "
-                },
-                {
-                    "id": "3",
-                    "textEng": "Substance that make corona virus protein in human body",
-                    "textMal": "ശരീരത്തിൽ കൊറോണ വൈറസ് protein ഉണ്ടാക്കുന്ന വസ്തുക്കൾ"
-                },
-                {
-                    "id": "4",
-                    "textEng": "Any of the above",
-                    "textMal": "മുകളിൽ പറഞ്ഞ ഏതെങ്കിലും"
-                }
-            ],
-            "correctAns": "4",
-            "givenAns" : "",
-            "ansReasonEng":"",
-            "ansReasonMal":""
-        },
-        {
-            "id": 4,
-            "points": 1,
-            "questionEng": "By now, India gifted 56 lakh COVID-19 Vaccines to poor countries. Every consignment from India has a Sanskrit Slogan 'Sarve Santu Niramayah'. What does this mean ?",
-            "questionMal": "ഇന്ത്യ ഇതിനകം 56 ലക്ഷം വാക്‌സിനുകൾ പുറം രാജ്യങ്ങൾക്കു ഗിഫ്റ് കൊടുത്തിട്ടുണ്ട്. ഇന്ത്യയിൽ നിന്ന് പോകുന്ന വാക്‌സിൻ കണ്ടെയ്നറിൽ എല്ലാം ഒരു സംസ്‌കൃത ശ്ലോകം കാണാം - 'സർവ സന്തു നിരാമയ' .എന്താണ് അതിന്റെ അർഥം ?",
-            "imgUrl":"/assets/Images/sarvaSanthuNiramaya.jpeg",
-            "options": [
-                {
-                    "id": "1",
-                    "textEng": "we are all one family",
-                    "textMal": "നമ്മൾ എല്ലാം ഒരു കുടുംബം"
-                },
-                {
-                    "id": "2",
-                    "textEng": "God creates miracles",
-                    "textMal": "ദൈവം അഭുതങ്ങൾ സൃഷ്ടിക്കും "
-                },
-                {
-                    "id": "3",
-                    "textEng": "May we all be free from disease",
-                    "textMal": "നമ്മൾ എല്ലാരും രോഗത്തിൽ നിന്ന് മുക്തരാവട്ടെ"
-                },
-                {
-                    "id": "4",
-                    "textEng": "Thank me now. Pay me later.",
-                    "textMal": "ഇപ്പൊ നന്ദി പറഞ്ഞോ... പൈസ പിന്നെ തന്നാ മതി"
-                }
-            ],
-            "correctAns": "3",
-            "givenAns" : "",
-            "ansReasonEng":"",
-            "ansReasonMal":""
-        },
-        {
-            "id": 5,
-            "points": 1,
             "questionEng": "Which among these is a popular Indian Social Media App.",
             "questionMal": "ഇവയിൽ ഏതാണ് ഇന്ത്യൻ നിർമിത സോഷ്യൽ മീഡിയ ആപ്പ് ?",
             "imgUrl":"",
@@ -164,15 +32,15 @@
             ],
             "correctAns": "4",
             "givenAns" : "",
-            "ansReasonEng":"Koo is now a popular Indian Social Media App with almost 3 million users now.",
+            "ansReasonEng":"Koo is the Indian Social Media App under AtmaNirbhar with almost 3 million users now.",
             "ansReasonMal":"30 ലക്ഷം യൂസേഴ്സ് ഓടെ കൂ വേഗം പ്രചാരം നേടുന്ന ഇന്ത്യൻ നിമിത്ത ആപ്പ് ആയി മാറിക്കഴിഞ്ഞു"
         },
         {
-            "id": 6,
+            "id": 2,
             "points": 1,
             "questionEng": "Halal in Arabic means pure. So, why are Hindus and Christians opposing Halal now ?  Select the most correct answer",
             "questionMal": "ഹലാൽ എന്ന വാക്കിന് അറബിയിൽ പരിശുദ്ധം എന്നാണ് അർദ്ധം. എന്നാൽ ഇപ്പൊ ഹിന്ദു , ക്രിസ്ത്യൻ വിഭാഗങ്ങളിൽ പെടുന്ന ആൾക്കാർ എന്തിനാണ് ഇതിനെതിരെ പ്രതിഷേധിക്കുന്നത് ?",
-            "imgUrl":"",
+            "imgUrl":"/assets/Images/noHalal2.jpg",
             "options": [
                 {
                     "id": "1",
@@ -201,7 +69,7 @@
             "ansReasonMal":"ഹലാൽ എന്നത് വിവേചനപരവും, ഇസ്ലാമിക വിശ്വാസികളല്ലാത്തവരുടെ മുകളിൽ അടിച്ചേൽപ്പിക്കപ്പെടുന്ന തൊട്ടുകൂടായ്മ കൂടി ആണ്"
         },
         {
-            "id": 7,
+            "id": 3,
             "points": 1,
             "questionEng": "India is the first country to put a satellite in Mars on the very first attempt.  Which is the second country to do so.",
             "questionMal": "ഇന്ത്യ ആണ് ചൊവ്വാ ഗ്രഹത്തിന്റെ മണ്ഡലത്തിൽ ആദ്യത്തെ ശ്രമത്തിൽ തന്നെ satellite എത്തിക്കുന്നത്. രണ്ടാമത് ഈ വിജയം കൈവരിക്കുന്ന രാജ്യം ഏതാണ് ?",
@@ -234,7 +102,7 @@
             "ansReasonMal":"UAE ജാപ്പനീസ് റോക്കറ്റിന്റെ സഹായത്തോടെ കൈവരിച്ച വിജയം."
         },
         {
-            "id": 8,
+            "id": 4,
             "points": 1,
             "questionEng": "Which country has the majority of women graduates in Science, Technology, Engineering and Math",
             "questionMal": "ഏതു രാജ്യത്താണ് ഏറ്റവും കൂടുതൽ ശതമാനം സ്ത്രീകൾ ശാസ്ത്രീയ വിഷയങ്ങളിൽ വിദ്യ കൈവരിച്ചിട്ടുള്ളത്?",
@@ -267,7 +135,7 @@
             "ansReasonMal":"ഭാരതത്തിൽ 43 ശതമാനം സ്ത്രീകൾ ഈ രംഗംങ്ങളിൽ വിദ്യ കൈവരിച്ചവർ ആണ്. Reminder : രാഷ്രീയ ശാസ്ത്ര ദിവസം ഫെബ് 28 നാണു"
         },
         {
-            "id": 9,
+            "id": 5,
             "points": 1,
             "questionEng": "Which event holds record for the single largest gathering of women for a religious activity",
             "questionMal": "ലോകത്തിൽ ഏറ്റവും കൂടുതൽ സ്ത്രീകൾ കൂടുന്ന പരിപാടി ഏതാണ്?",
@@ -300,7 +168,7 @@
             "ansReasonMal":"Reminder :  ആറ്റുകാൽ പൊങ്കാല ഫെബ് 27 നാണു."
         },
         {
-            "id": 10,
+            "id": 6,
             "points": 1,
             "questionEng": "Who is called the father of Indian Navy ?",
             "questionMal": "ആരാണ് ഇന്ത്യൻ നാവികസേനയുടെ പിതാവ് എന്നറിയപ്പെടുന്നത് ?",
@@ -333,7 +201,7 @@
             "ansReasonMal":"Reminder :  ശിവാജി ജയന്തി ഫെബ്രുവരി 19 നാണു."
         },
         {
-            "id": 11,
+            "id": 7,
             "points": 1,
             "questionEng": "Which Avatar of Lord Shiva promoted gender equality?",
             "questionMal": "പരമശിവന്റെ ഏതു അവതാരമാണ് സ്ത്രീ പുരുഷ സമത്വം പ്രതിനിധാനം ചെയ്യുന്നത്?",
