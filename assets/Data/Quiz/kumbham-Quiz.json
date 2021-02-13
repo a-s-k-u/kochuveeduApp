@@ -5,34 +5,34 @@
         {
             "id": 1,
             "points": 1,
-            "questionEng": "Corona Virus is called COVID 19. What does 19 stand for ?",
-            "questionMal": "അത്തം മുതൽ ഉത്രാടം വരെയുള്ള പൂക്കളങ്ങളിൽ ഒരു ദിവസം ചതുരത്തിലാണ് പൂക്കളമിടുന്നത്. ഏതു നാളിൽ ?",
+            "questionEng": "Corona Virus is also known as COVID 19. What does 19 stand for ?",
+            "questionMal": "COVID 19 ലെ 19 എന്തിനെ സൂചിപ്പിക്കുന്നതാണ്  ?",
             "imgUrl":"/assets/Images/squareAthappookkalam.jpg",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Number of strands in the virus",
-                    "textMal": "മൂലം"
+                    "textMal": "വൈറസിലെ dna യുടെ എണ്ണം "
                 },
                 {
                     "id": "2",
                     "textEng": "Year 2019",
-                    "textMal": "ഉത്രാടം"
+                    "textMal": "2019 വർഷം "
                 },
                 {
                     "id": "3",
-                    "textEng": "It will live only for 19 days",
-                    "textMal": "ഓണം കഴിഞ്ഞിട്ട്"
+                    "textEng": "Virus live only for 19 days",
+                    "textMal": "വൈറസിന് വെറും 19 ദിവസമേ ആയുസുള്ളൂ "
                 },
                 {
                     "id": "4",
                     "textEng": "According to Chinese Numerology, 19 is a lucky number.",
-                    "textMal": "ഓണത്തിന് മുന്നേ"
+                    "textMal": "ചൈനീസ് ജ്യോതിശാസ്ത്രം അനുസരിച്ചു 19  ഒരു ഭാഗ്യ നമ്പർ ആയോണ്ട്"
                 }
             ],
-            "correctAns": "1",
+            "correctAns": "2",
             "givenAns" : "",
-            "ansReasonEng":"It's on Moolam naal",
+            "ansReasonEng":"Corona Virus was first discovered on Dec 2019, and hence 19 in COVID 19. <br/>CO - Corona <br/>VI - Virus <br/>D - Disease <br/>19 - 2019",
             "ansReasonMal":"മൂലം നാളിലാണ് ചതുരത്തിൽ പൂക്കളം ഇടുന്നതു"
         },
         {
