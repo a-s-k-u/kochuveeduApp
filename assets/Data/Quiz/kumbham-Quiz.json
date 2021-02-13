@@ -7,7 +7,7 @@
             "points": 1,
             "questionEng": "Corona Virus is also known as COVID 19. What does 19 stand for ?",
             "questionMal": "COVID 19 ലെ 19 എന്തിനെ സൂചിപ്പിക്കുന്നതാണ്  ?",
-            "imgUrl":"/assets/Images/squareAthappookkalam.jpg",
+            "imgUrl":"/assets/Images/corona.png",
             "options": [
                 {
                     "id": "1",
@@ -32,272 +32,338 @@
             ],
             "correctAns": "2",
             "givenAns" : "",
-            "ansReasonEng":"Corona Virus was first discovered on Dec 2019, and hence 19 in COVID 19. <br/>CO - Corona <br/>VI - Virus <br/>D - Disease <br/>19 - 2019",
-            "ansReasonMal":"മൂലം നാളിലാണ് ചതുരത്തിൽ പൂക്കളം ഇടുന്നതു"
+            "ansReasonEng":"Corona Virus was first discovered on Dec 2019, and hence 19 in COVID 19. CO - Corona VI - Virus D - Disease 19 - Year 2019",
+            "ansReasonMal":"കൊറോണ വൈറസ് ആദ്യമായി കണ്ടു പിടിക്കപ്പെടുന്നത് Dec 2019 നാണു. അതാണ് കൊറോണ വൈറസ് 2019 ചുരുക്കി COVID -19 എന്നായതു"
         },
         {
             "id": 2,
             "points": 1,
-            "questionEng": "Vaccines are substances that create immune reaction in our body. What can be used to make Corona Vaccine ?",
-            "questionMal": "ഏതു നാളിലാണ് പൂക്കളം പരമാവധി വലിപ്പത്തിലിടുന്നത് ?",
+            "questionEng": "A couple in Kerala want to name their new born child after a COVID Vaccine that saved their rural Village. What is the most likely name you think they'll use.",
+            "questionMal": "കേരളത്തിലെ ഒരു ഗ്രാമത്തിലെ ഒരു കുടുംബം തങ്ങൾക്കു ജനിച്ച കുട്ടിക്ക് ഗ്രാമത്തെ രക്ഷപ്പെടുത്തിയ ഒരു വാക്‌സിന്റെ പേര് ആണ് നൽകാൻ തീരുമാനിച്ചത്. ഏതായിരിക്കും ആ പേര് ?",
             "imgUrl":"",
             "options": [
                 {
                     "id": "1",
-                    "textEng": "Chimpanzee Flu Virus",
-                    "textMal": "മൂലം"
+                    "textEng": "Pfizer Raja",
+                    "textMal": "Pfizer Raja"
                 },
                 {
                     "id": "2",
-                    "textEng": "Dead Corona Virus",
-                    "textMal": "ഉത്രാടം"
+                    "textEng": "COVAXIN Janaki",
+                    "textMal": "COVAXIN Janaki"
                 },
                 {
                     "id": "3",
-                    "textEng": "Substance that creates corona virus protein",
-                    "textMal": "വ്യാഴം"
+                    "textEng": "Sputnik Namboothiri",
+                    "textMal": "Sputnik Namboothiri"
                 },
                 {
                     "id": "4",
-                    "textEng": "All of the above",
-                    "textMal": "വെള്ളി"
+                    "textEng": "COVISHIELD Bhairavi",
+                    "textMal": "COVISHIELD Bhairavi"
                 }
             ],
             "correctAns": "2",
             "givenAns" : "",
-            "ansReasonEng":"The biggest Athappooklam is made on Uthradam naal, or First Onam or the day before Thiruvonam",
-            "ansReasonMal":"ഉത്രാടം നാളിലാണ് (ഒന്നാം ഓണം , തിരുവോണത്തിന്റെ തലേ ദിവസം ) അത്തപ്പൂക്കളം ഏറ്റവും വലുതായി ഇടുന്നതു"
+            "ansReasonEng":"Most probably COVAXIN Janaki as COVAXIN is India's first Indigenous COVID-19 Vaccine. And, hence more affordable for us to vaccinate even the remotest part of our country.",
+            "ansReasonMal":"കോവാക്സിൻ ഭാരതം തനതായി ഉണ്ടാക്കി എടുത്ത വാക്‌സിൻ ആയോണ്ട് തന്നെ അതായിരിക്കും കൂടുതൽ യോജിക്കുന്ന പേര്. തനതായി ഉണ്ടാക്കി എടുക്കാൻ കഴിഞ്ഞത് കൊണ്ട് മാത്രമാണ് നമുക്ക് ഭാരിച്ച ചെലവ് വഹിക്കാതെ ദൂരെ ദൂരെ ഉള്ള സാധാരണക്കാരെ വരെ വാക്‌സിനേറ്റ ചെയ്യാനുള്ള സാധ്യത ഉള്ളത്."
         },
         {
             "id": 3,
             "points": 1,
-            "questionEng": "Social Media is now an integral part of our lives. Which among these is the only Indian App that is popular.",
-            "questionMal": "ആർക്കു വേണ്ടിയാണ് 28 ആം ഓണം ആഘോഷിക്കുന്നത്?",
-            "imgUrl":"",
+            "questionEng": "Vaccines increase human immunity. What does a typical Corona Vaccine contain ?",
+            "questionMal": "വാക്സിനുകൾ നമ്മുടെ രോഗ പ്രതിരോധ ശക്തി വർധിപ്പിക്കും... കൊറോണ വാക്‌സിനുകളിൽ കാണപ്പെടുന്ന വസ്തു ഏതാണ് ?",
+            "imgUrl":"/assets/Images/coronaVaccine.jpg",
             "options": [
                 {
                     "id": "1",
-                    "textEng": "Twitter",
-                    "textMal": "മനുഷ്യർ"
+                    "textEng": "Virus that cause flu in Chimpanzee",
+                    "textMal": "ചിമ്പാൻസികളിൽ ജലദോഷം ഉണ്ടാക്കുന്ന വൈറസ്"
                 },
                 {
                     "id": "2",
-                    "textEng": "Instagram",
-                    "textMal": "ദൈവങ്ങൾ"
+                    "textEng": "Dead Corona Virus",
+                    "textMal": "ചത്ത കൊറോണ വൈറസ് "
                 },
                 {
                     "id": "3",
-                    "textEng": "Signal",
-                    "textMal": "അസുരന്മാർ"
+                    "textEng": "Substance that make corona virus protein in human body",
+                    "textMal": "ശരീരത്തിൽ കൊറോണ വൈറസ് protein ഉണ്ടാക്കുന്ന വസ്തുക്കൾ"
                 },
                 {
                     "id": "4",
-                    "textEng": "Koo",
-                    "textMal": "കന്നുകാലികൾ"
+                    "textEng": "Any of the above",
+                    "textMal": "മുകളിൽ പറഞ്ഞ ഏതെങ്കിലും"
                 }
             ],
             "correctAns": "4",
             "givenAns" : "",
-            "ansReasonEng":"The 28th day after Thiruvonam is called 28th Onam and is celebrated for Cattle. It's a big event in Ochira temple.",
-            "ansReasonMal":"തിരുവോണം കഴിഞ്ഞു 28 ആം നാളിലാണ് 28 ആം ഓണം ആഘോഷിക്കുന്നത്... കന്നുകാലികൾക്ക് വേണ്ടിയാണ് ഈ ഒരു ആഘോഷം.. ഓച്ചിറ അമ്പലത്തിൽ ഇത് വലിയ രീതിയിൽ ആണ് ആഘോഷിക്കപ്പെടുന്നത്"
+            "ansReasonEng":"American vaccines Pfizer and Moderna creates mRNA that when injected in human body creates Corona Virus protein. UK Vaccine COVISHIELD and Indian Vaccine COVAXIN uses dead Corona Virus to prepare body to fight Corona Infection",
+            "ansReasonMal":"അമേരിക്കൻ വാക്‌സിനുകൾ കൂടുതലും mRNA കുത്തി വച്ച് ശരീരത്തിനെ കൊണ്ട് തന്നെ കൊറോണ വൈറസ് protein ഉണ്ടാക്കിപ്പിക്കും. UK യും ഇന്ത്യൻ വാക്‌സിനും ചത്ത കൊറോണ വൈറസ് ആണ് കൊറോണ വൈറസിനെ ചെറുത് നിർത്താനായി ഉപയോഗിക്കുന്നത്."
         },
         {
             "id": 4,
             "points": 1,
-            "questionEng": "Halal in Arabic means pure. So, why are Hindus and Christians opposing Halal now ?  Select the most correct answer",
-            "questionMal": "മഹാബലിയുടെ പുത്രന്റെ പേര് ?",
+            "questionEng": "By now, India sent 56 lakh COVID-19 Vaccines to foreign nations as a gift. As a result of that even the poor and neglected countries started getting vaccines. Every consignment from India is written a Sanskrit Slogan 'Sarve Santu Niramayah'. What does this mean ?",
+            "questionMal": "ഇന്ത്യ ഇതിനകം 56 ലക്ഷം വാക്‌സിനുകൾ പുറം രാജ്യങ്ങൾക്കു ഗിഫ്റ് കൊടുത്തിട്ടുണ്ട്. ഇന്ത്യയിൽ നിന്ന് പോകുന്ന വാക്‌സിൻ കണ്ടെയ്നറിൽ എല്ലാം ഒരു സംസ്‌കൃത ശ്ലോകം കാണാം - 'സർവ സന്തു നിരാമയ' .എന്താണ് അതിന്റെ അർഥം ?",
+            "imgUrl":"/assets/Images/sarvaSanthuNiramaya.jpeg",
+            "options": [
+                {
+                    "id": "1",
+                    "textEng": "we are all one family",
+                    "textMal": "നമ്മൾ എല്ലാം ഒരു കുടുംബം"
+                },
+                {
+                    "id": "2",
+                    "textEng": "God creates miracles",
+                    "textMal": "ദൈവം അഭുതങ്ങൾ സൃഷ്ടിക്കും "
+                },
+                {
+                    "id": "3",
+                    "textEng": "May we all be free from disease",
+                    "textMal": "നമ്മൾ എല്ലാരും രോഗത്തിൽ നിന്ന് മുക്തരാവട്ടെ"
+                },
+                {
+                    "id": "4",
+                    "textEng": "Thank me now. Pay me later.",
+                    "textMal": "ഇപ്പൊ നന്ദി പറഞ്ഞോ... പൈസ പിന്നെ തന്നാ മതി"
+                }
+            ],
+            "correctAns": "3",
+            "givenAns" : "",
+            "ansReasonEng":"",
+            "ansReasonMal":""
+        },
+        {
+            "id": 5,
+            "points": 1,
+            "questionEng": "Which among these is a popular Indian Social Media App.",
+            "questionMal": "ഇവയിൽ ഏതാണ് ഇന്ത്യൻ നിർമിത സോഷ്യൽ മീഡിയ ആപ്പ് ?",
             "imgUrl":"",
             "options": [
                 {
                     "id": "1",
-                    "textEng": "Muslim Cleric spit on Halal food before anyone can eat it. So, this spreads Corona.",
-                    "textMal": "കശ്യപ മഹർഷി"
+                    "textEng": "Chandrika",
+                    "textMal": "ചന്ദ്രിക"
                 },
                 {
                     "id": "2",
-                    "textEng": "Animals are killed by slitting the throat and they endure so much pain.",
-                    "textMal": "പ്രഹ്ളാദൻ"
+                    "textEng": "Instagram",
+                    "textMal": "ഇൻസ്റ്റാഗ്രാം"
                 },
                 {
                     "id": "3",
-                    "textEng": "Halal has two L s. Oru ellu koodi poyathu kondu.",
-                    "textMal": "ധൃഷ്ടധ്യുമ്നൻ"
+                    "textEng": "Signal",
+                    "textMal": "സിഗ്നൽ"
                 },
                 {
                     "id": "4",
-                    "textEng": "‘Pure’ in Halal does not mean Healthy or Good. It just means pure as per Islamic laws. By consuming Halal products Hindus and Christians are forced to follow Islamic Sharia law and in a secular Country like India this cannot be accepted or tolerated.",
-                    "textMal": "ബാണാസുരൻ"
+                    "textEng": "Koo",
+                    "textMal": "കൂ"
                 }
             ],
             "correctAns": "4",
             "givenAns" : "",
-            "ansReasonEng":"Mahabali's son's name is Banasura. His father is Virochanan and his great grandfather is Prahladan",
-            "ansReasonMal":"മഹാബലിയുടെ പുത്രന്റെ പേര് ബാണാസുരൻ എന്നാണ്... മഹാബലിയുടെ പിതാവ് വിരോചനനും, മുത്തച്ഛൻ പ്രഹ്ളാദനും ആകുന്നു"
+            "ansReasonEng":"Koo is now a popular Indian Social Media App with almost 3 million users now.",
+            "ansReasonMal":"30 ലക്ഷം യൂസേഴ്സ് ഓടെ കൂ വേഗം പ്രചാരം നേടുന്ന ഇന്ത്യൻ നിമിത്ത ആപ്പ് ആയി മാറിക്കഴിഞ്ഞു"
         },
         {
-            "id": 5,
+            "id": 6,
             "points": 1,
-            "questionEng": "India is the first country to put a satellite in Mars on the first attempt.  Which is the second country to do so.",
-            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
-            "imgUrl":"/assets/Images/vamana.png",
+            "questionEng": "Halal in Arabic means pure. So, why are Hindus and Christians opposing Halal now ?  Select the most correct answer",
+            "questionMal": "ഹലാൽ എന്ന വാക്കിന് അറബിയിൽ പരിശുദ്ധം എന്നാണ് അർദ്ധം. എന്നാൽ ഇപ്പൊ ഹിന്ദു , ക്രിസ്ത്യൻ വിഭാഗങ്ങളിൽ പെടുന്ന ആൾക്കാർ എന്തിനാണ് ഇതിനെതിരെ പ്രതിഷേധിക്കുന്നത് ?",
+            "imgUrl":"/assets/Images/noHalal.jpeg",
             "options": [
                 {
                     "id": "1",
-                    "textEng": "Japan",
-                    "textMal": "10"
+                    "textEng": "As per reliogious customs, Muslim Cleric spit on Halal food before anyone can eat it. So, this spreads Corona.",
+                    "textMal": "മുസ്ലിം പണ്ഡിതൻ , തന്റെ മതാചാരം അനുസരിച്ചു ഭക്ഷണം പാകം ചെയ്തതിനു ശേഷം ആൾക്കാർക്ക് കൊടുക്കുന്നതിനു മുന്നേ തുപ്പുന്നു... ഇത് കൊറോണ പകരാൻ കാരണമാകും."
+                },
+                {
+                    "id": "2",
+                    "textEng": "Animals are killed by slitting the throat and they endure so much pain.",
+                    "textMal": "കന്നുകാലികളെ കഴുത്തി കീറി കൊലപ്പെടുത്തുന്നതിനാൽ അവ ഒരുപാട് വേദന അനുഭവിക്കേണ്ടതായി വരും"
+                },
+                {
+                    "id": "3",
+                    "textEng": "Halal has two L s. Oru ellu koodi poyathu kondu.",
+                    "textMal": "ഹലാൽ എന്ന വാക്കിന് രണ്ടു L ഒണ്ടു. അത് കാരണം"
+                },
+                {
+                    "id": "4",
+                    "textEng": "‘Pure’ in Halal does not mean Healthy or Good. It just means pure(allowed) as per Islamic laws. By consuming Halal products Hindus and Christians are forced to follow Islamic Sharia law and in a secular Country like India this cannot be accepted or tolerated.",
+                    "textMal": "പരിശുദ്ധം എന്ന പ്രയോഗത്തിന് ഇവിടെ ആരോഗ്യപരം അല്ലെ ശുദ്ധം എന്ന അർദ്ധം അല്ല. പകരം ഇസ്ലാമിക നിയമം പ്രകാരം അനുവദനീയം എന്നതാണ്. ഇത് ഇസ്ലാമിക മത വിശ്വാസികളല്ലാത്ത ഹിന്ദുക്കൾക്കും ക്രിസ്ത്യാനികൾക്കും നേരെ അടിച്ചേൽപ്പിക്കപ്പെടുന്ന ഒന്നാണ്. ഭാരതം പോലുള്ള ഒരു മതേതര രാജ്യത്തു ഇത് തികച്ചും നിഷിദ്ധമാണ്."
+                }
+            ],
+            "correctAns": "4",
+            "givenAns" : "",
+            "ansReasonEng":"Halal practice is disciminatory and another form of Untouchability against people who dont follow Islamic laws (also called Kaffirs).",
+            "ansReasonMal":"ഹലാൽ എന്നത് വിവേചനപരവും, ഇസ്ലാമിക വിശ്വാസികളല്ലാത്തവരുടെ മുകളിൽ അടിച്ചേൽപ്പിക്കപ്പെടുന്ന തൊട്ടുകൂടായ്മ കൂടി ആണ്"
+        },
+        {
+            "id": 7,
+            "points": 1,
+            "questionEng": "India is the first country to put a satellite in Mars on the very first attempt.  Which is the second country to do so.",
+            "questionMal": "ഇന്ത്യ ആണ് ചൊവ്വാ ഗ്രഹത്തിന്റെ മണ്ഡലത്തിൽ ആദ്യത്തെ ശ്രമത്തിൽ തന്നെ satellite എത്തിക്കുന്നത്. രണ്ടാമത് ഈ വിജയം കൈവരിക്കുന്ന രാജ്യം ഏതാണ് ?",
+            "imgUrl":"/assets/Images/marsMission.jpg",
+            "options": [
+                {
+                    "id": "1",
+                    "textEng": "USA",
+                    "textMal": "USA"
                 },
                 {
                     "id": "2",
                     "textEng": "UAE",
-                    "textMal": "5"
+                    "textMal": "UAE"
                 },
                 {
                     "id": "3",
-                    "textEng": "Canada",
-                    "textMal": "4"
+                    "textEng": "Russia",
+                    "textMal": "Russia"
                 },
                 {
                     "id": "4",
                     "textEng": "China",
-                    "textMal": "2"
+                    "textMal": "China"
                 }
             ],
             "correctAns": "2",
             "givenAns" : "",
-            "ansReasonEng":"Vamana is Mahavishnu's 5th Avatar. (1)Matsya, (2)Koorma, (3)Varaha, (4)Narasimha, (5)Vamana , (6)Parasurama, (7) Sri Rama ,(8) Balarama, (9) Sri Krishna , (10) Kalki ",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+            "ansReasonEng":"UAE used Japanese Rocket. India used Indian Rocket. Kochuveedu team congratulates UAE for joining the space club.",
+            "ansReasonMal":"UAE ജാപ്പനീസ് റോക്കറ്റിന്റെ സഹായത്തോടെ കൈവരിച്ച വിജയം."
         },
         {
-            "id": 5,
+            "id": 8,
             "points": 1,
-            "questionEng": "Which country has the majority of women in Science",
-            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
-            "imgUrl":"/assets/Images/vamana.png",
+            "questionEng": "Which country has the majority of women graduates in Science, Technology, Engineering and Math",
+            "questionMal": "ഏതു രാജ്യത്താണ് ഏറ്റവും കൂടുതൽ ശതമാനം സ്ത്രീകൾ ശാസ്ത്രീയ വിഷയങ്ങളിൽ വിദ്യ കൈവരിച്ചിട്ടുള്ളത്?",
+            "imgUrl":"/assets/Images/womenInScience.jpg",
             "options": [
                 {
                     "id": "1",
-                    "textEng": "Japan",
-                    "textMal": "10"
+                    "textEng": "USA",
+                    "textMal": "USA"
                 },
                 {
                     "id": "2",
-                    "textEng": "UAE",
-                    "textMal": "5"
+                    "textEng": "France",
+                    "textMal": "France"
                 },
                 {
                     "id": "3",
                     "textEng": "Canada",
-                    "textMal": "4"
+                    "textMal": "Canada"
                 },
                 {
                     "id": "4",
-                    "textEng": "China",
-                    "textMal": "2"
+                    "textEng": "India",
+                    "textMal": "India"
                 }
             ],
-            "correctAns": "2",
+            "correctAns": "4",
             "givenAns" : "",
-            "ansReasonEng":"National Science Day is on Feb 25",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+            "ansReasonEng":"India has 43% Female gradualtes in these fields. Reminder : National Science Day is on Feb 28",
+            "ansReasonMal":"ഭാരതത്തിൽ 43 ശതമാനം സ്ത്രീകൾ ഈ രംഗംങ്ങളിൽ വിദ്യ കൈവരിച്ചവർ ആണ്. Reminder : രാഷ്രീയ ശാസ്ത്ര ദിവസം ഫെബ് 28 നാണു"
         },
         {
-            "id": 5,
+            "id": 9,
             "points": 1,
             "questionEng": "Which event holds record for the single largest gathering of women for a religious activity",
-            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "questionMal": "ലോകത്തിൽ ഏറ്റവും കൂടുതൽ സ്ത്രീകൾ കൂടുന്ന പരിപാടി ഏതാണ്?",
             "imgUrl":"/assets/Images/vamana.png",
             "options": [
                 {
                     "id": "1",
-                    "textEng": "Japan",
-                    "textMal": "10"
+                    "textEng": "KudumbaSree",
+                    "textMal": "കുടുംബശ്രീ"
                 },
                 {
                     "id": "2",
-                    "textEng": "UAE",
-                    "textMal": "5"
+                    "textEng": "Kumbha Mela",
+                    "textMal": "കുംഭ മേള"
                 },
                 {
                     "id": "3",
-                    "textEng": "Canada",
-                    "textMal": "4"
+                    "textEng": "Attukal Pongala",
+                    "textMal": "ആറ്റുകാൽ പൊങ്കാല"
                 },
                 {
                     "id": "4",
-                    "textEng": "China",
-                    "textMal": "2"
+                    "textEng": "Katy Perry Concert in New York in 2019",
+                    "textMal": "കേറ്റി പെറി യുടെ 2019 ൽ ന്യൂയോർക്കിൽ വച്ച് നടന്ന പരിപാടിയിൽ"
                 }
             ],
-            "correctAns": "2",
+            "correctAns": "3",
             "givenAns" : "",
-            "ansReasonEng":"National Science Day is on Feb 25",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+            "ansReasonEng":"Reminder :  Attukal Pongala is on Feb 27.",
+            "ansReasonMal":"Reminder :  ആറ്റുകാൽ പൊങ്കാല ഫെബ് 27 നാണു."
         },
         {
-            "id": 5,
+            "id": 10,
             "points": 1,
-            "questionEng": "Who is called the father of Indian Navy",
-            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
-            "imgUrl":"/assets/Images/vamana.png",
+            "questionEng": "Who is called the father of Indian Navy ?",
+            "questionMal": "ആരാണ് ഇന്ത്യൻ നാവികസേനയുടെ പിതാവ് എന്നറിയപ്പെടുന്നത് ?",
+            "imgUrl":"/assets/Images/Navy.jpg",
             "options": [
                 {
                     "id": "1",
-                    "textEng": "Japan",
-                    "textMal": "10"
+                    "textEng": "Jawaharlal Nehru",
+                    "textMal": "Jawaharlal Nehru"
                 },
                 {
                     "id": "2",
-                    "textEng": "UAE",
-                    "textMal": "5"
+                    "textEng": "Subhash Chandra Bose",
+                    "textMal": "Subhash Chandra Bose"
                 },
                 {
                     "id": "3",
-                    "textEng": "Canada",
-                    "textMal": "4"
+                    "textEng": "Aurangazeb",
+                    "textMal": "Aurangazeb"
                 },
                 {
                     "id": "4",
-                    "textEng": "China",
-                    "textMal": "2"
+                    "textEng": "Chatrapathi Shivaji",
+                    "textMal": "Chatrapathi Shivaji"
                 }
             ],
-            "correctAns": "2",
+            "correctAns": "4",
             "givenAns" : "",
-            "ansReasonEng":"National Science Day is on Feb 25",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+            "ansReasonEng":"Reminder :  Shivaji's Birthday falls on Feb 19",
+            "ansReasonMal":"Reminder :  ശിവാജി ജയന്തി ഫെബ്രുവരി 19 നാണു."
         },
         {
-            "id": 5,
+            "id": 11,
             "points": 1,
             "questionEng": "Which Avatar of Lord Shiva promoted gender equality?",
-            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
-            "imgUrl":"/assets/Images/vamana.png",
+            "questionMal": "പരമശിവന്റെ ഏതു അവതാരമാണ് സ്ത്രീ പുരുഷ സമത്വം പ്രതിനിധാനം ചെയ്യുന്നത്?",
+            "imgUrl":"/assets/Images/arthNareeshwari.jpg",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Vanar Avatar",
-                    "textMal": "10"
+                    "textMal": "വാനര അവതാരം"
                 },
                 {
                     "id": "2",
                     "textEng": "Matsya Avatar",
-                    "textMal": "5"
+                    "textMal": "മത്സ്യ അവതാരം"
                 },
                 {
                     "id": "3",
                     "textEng": "Nataraja Avatar",
-                    "textMal": "4"
+                    "textMal": "നടരാജ അവതാരം"
                 },
                 {
                     "id": "4",
                     "textEng": "Ardhanareshwar Avatar",
-                    "textMal": "2"
+                    "textMal": "അർത്ഥനാരീശ്വരി അവതാരം"
                 }
             ],
-            "correctAns": "2",
+            "correctAns": "4",
             "givenAns" : "",
-            "ansReasonEng":"National Science Day is on Feb 25",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+            "ansReasonEng":"Reminder :  Maha Shivarathri falls on March 11",
+            "ansReasonMal":"Reminder :  മാർച്ച് 11 നാണു മഹാശിവരാത്രി"
         }
     ]
 }
