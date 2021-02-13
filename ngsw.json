@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1613197529988,
+  "timestamp": 1613198348079,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -91,7 +91,7 @@
     "/assets/Data/Quiz/Onam-Quiz.json": "ce9a2cf32ac9435896b76535ef58ef590a1c5aae",
     "/assets/Data/Quiz/Ramayanam-Quiz.json": "3f04cf2c40451138e28ea06251ea4b68655f082e",
     "/assets/Data/Quiz/allQuiz.json": "bff1df751af5fd5dad060a0f2b61f4697d3a38c2",
-    "/assets/Data/Quiz/kumbham-Quiz.json": "bd90d82394b4f412258f8d86bb1ce98ae5756f60",
+    "/assets/Data/Quiz/kumbham-Quiz.json": "a4f123fdf40afcafe09c9c927ca4f2861782d01f",
     "/assets/Images/01.JPG": "924eb0cc6391fe96f59664dcb30b0db9dccc5864",
     "/assets/Images/02.JPG": "2184deb98cf6b343311d5ba73f7c461a88d75ef9",
     "/assets/Images/03.JPG": "4837edbe9d95f6ff8033c8bec5a5cb9ffb7acb5f",

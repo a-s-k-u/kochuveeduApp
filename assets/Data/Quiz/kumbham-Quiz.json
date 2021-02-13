@@ -32,13 +32,13 @@
             ],
             "correctAns": "2",
             "givenAns" : "",
-            "ansReasonEng":"Corona Virus was first discovered on Dec 2019, and hence 19 in COVID 19. CO - Corona VI - Virus D - Disease 19 - Year 2019",
+            "ansReasonEng":"Corona Virus was first discovered on Dec 2019.",
             "ansReasonMal":"കൊറോണ വൈറസ് ആദ്യമായി കണ്ടു പിടിക്കപ്പെടുന്നത് Dec 2019 നാണു. അതാണ് കൊറോണ വൈറസ് 2019 ചുരുക്കി COVID -19 എന്നായതു"
         },
         {
             "id": 2,
             "points": 1,
-            "questionEng": "A couple in Kerala want to name their new born child after a COVID Vaccine that saved their rural Village. What is the most likely name you think they'll use.",
+            "questionEng": "A couple in Kerala want to name their new born child after a COVID Vaccine that saved their Village. What is the most likely name you think they'll use.",
             "questionMal": "കേരളത്തിലെ ഒരു ഗ്രാമത്തിലെ ഒരു കുടുംബം തങ്ങൾക്കു ജനിച്ച കുട്ടിക്ക് ഗ്രാമത്തെ രക്ഷപ്പെടുത്തിയ ഒരു വാക്‌സിന്റെ പേര് ആണ് നൽകാൻ തീരുമാനിച്ചത്. ഏതായിരിക്കും ആ പേര് ?",
             "imgUrl":"",
             "options": [
@@ -65,15 +65,15 @@
             ],
             "correctAns": "2",
             "givenAns" : "",
-            "ansReasonEng":"Most probably COVAXIN Janaki as COVAXIN is India's first Indigenous COVID-19 Vaccine. And, hence more affordable for us to vaccinate even the remotest part of our country.",
-            "ansReasonMal":"കോവാക്സിൻ ഭാരതം തനതായി ഉണ്ടാക്കി എടുത്ത വാക്‌സിൻ ആയോണ്ട് തന്നെ അതായിരിക്കും കൂടുതൽ യോജിക്കുന്ന പേര്. തനതായി ഉണ്ടാക്കി എടുക്കാൻ കഴിഞ്ഞത് കൊണ്ട് മാത്രമാണ് നമുക്ക് ഭാരിച്ച ചെലവ് വഹിക്കാതെ ദൂരെ ദൂരെ ഉള്ള സാധാരണക്കാരെ വരെ വാക്‌സിനേറ്റ ചെയ്യാനുള്ള സാധ്യത ഉള്ളത്."
+            "ansReasonEng":"Because COVAXIN is India's first Indigenous COVID-19 Vaccine.",
+            "ansReasonMal":"കോവാക്സിൻ ഭാരതം തനതായി ഉണ്ടാക്കി എടുത്ത വാക്‌സിൻ ആയോണ്ട് തന്നെ അതായിരിക്കും കൂടുതൽ യോജിക്കുന്ന പേര്."
         },
         {
             "id": 3,
             "points": 1,
             "questionEng": "Vaccines increase human immunity. What does a typical Corona Vaccine contain ?",
             "questionMal": "വാക്സിനുകൾ നമ്മുടെ രോഗ പ്രതിരോധ ശക്തി വർധിപ്പിക്കും... കൊറോണ വാക്‌സിനുകളിൽ കാണപ്പെടുന്ന വസ്തു ഏതാണ് ?",
-            "imgUrl":"/assets/Images/coronaVaccine.jpg",
+            "imgUrl":"",
             "options": [
                 {
                     "id": "1",
@@ -98,13 +98,13 @@
             ],
             "correctAns": "4",
             "givenAns" : "",
-            "ansReasonEng":"American vaccines Pfizer and Moderna creates mRNA that when injected in human body creates Corona Virus protein. UK Vaccine COVISHIELD and Indian Vaccine COVAXIN uses dead Corona Virus to prepare body to fight Corona Infection",
-            "ansReasonMal":"അമേരിക്കൻ വാക്‌സിനുകൾ കൂടുതലും mRNA കുത്തി വച്ച് ശരീരത്തിനെ കൊണ്ട് തന്നെ കൊറോണ വൈറസ് protein ഉണ്ടാക്കിപ്പിക്കും. UK യും ഇന്ത്യൻ വാക്‌സിനും ചത്ത കൊറോണ വൈറസ് ആണ് കൊറോണ വൈറസിനെ ചെറുത് നിർത്താനായി ഉപയോഗിക്കുന്നത്."
+            "ansReasonEng":"",
+            "ansReasonMal":""
         },
         {
             "id": 4,
             "points": 1,
-            "questionEng": "By now, India sent 56 lakh COVID-19 Vaccines to foreign nations as a gift. As a result of that even the poor and neglected countries started getting vaccines. Every consignment from India is written a Sanskrit Slogan 'Sarve Santu Niramayah'. What does this mean ?",
+            "questionEng": "By now, India gifted 56 lakh COVID-19 Vaccines to poor countries. Every consignment from India has a Sanskrit Slogan 'Sarve Santu Niramayah'. What does this mean ?",
             "questionMal": "ഇന്ത്യ ഇതിനകം 56 ലക്ഷം വാക്‌സിനുകൾ പുറം രാജ്യങ്ങൾക്കു ഗിഫ്റ് കൊടുത്തിട്ടുണ്ട്. ഇന്ത്യയിൽ നിന്ന് പോകുന്ന വാക്‌സിൻ കണ്ടെയ്നറിൽ എല്ലാം ഒരു സംസ്‌കൃത ശ്ലോകം കാണാം - 'സർവ സന്തു നിരാമയ' .എന്താണ് അതിന്റെ അർഥം ?",
             "imgUrl":"/assets/Images/sarvaSanthuNiramaya.jpeg",
             "options": [
@@ -172,7 +172,7 @@
             "points": 1,
             "questionEng": "Halal in Arabic means pure. So, why are Hindus and Christians opposing Halal now ?  Select the most correct answer",
             "questionMal": "ഹലാൽ എന്ന വാക്കിന് അറബിയിൽ പരിശുദ്ധം എന്നാണ് അർദ്ധം. എന്നാൽ ഇപ്പൊ ഹിന്ദു , ക്രിസ്ത്യൻ വിഭാഗങ്ങളിൽ പെടുന്ന ആൾക്കാർ എന്തിനാണ് ഇതിനെതിരെ പ്രതിഷേധിക്കുന്നത് ?",
-            "imgUrl":"/assets/Images/noHalal.jpeg",
+            "imgUrl":"",
             "options": [
                 {
                     "id": "1",
@@ -271,7 +271,7 @@
             "points": 1,
             "questionEng": "Which event holds record for the single largest gathering of women for a religious activity",
             "questionMal": "ലോകത്തിൽ ഏറ്റവും കൂടുതൽ സ്ത്രീകൾ കൂടുന്ന പരിപാടി ഏതാണ്?",
-            "imgUrl":"/assets/Images/vamana.png",
+            "imgUrl":"",
             "options": [
                 {
                     "id": "1",
