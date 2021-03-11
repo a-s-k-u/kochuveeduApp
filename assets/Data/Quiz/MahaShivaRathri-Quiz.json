@@ -6,331 +6,331 @@
             "id": 1,
             "points": 1,
             "questionEng": "Lord Shiva is considered to be the God of ?",
-            "questionMal": "അത്തം മുതൽ ഉത്രാടം വരെയുള്ള പൂക്കളങ്ങളിൽ ഒരു ദിവസം ചതുരത്തിലാണ് പൂക്കളമിടുന്നത്. ഏതു നാളിൽ ?",
+            "questionMal": "ഭഗവാൻ പരമശിവൻ പ്രപഞ്ചത്തിലെ ഏതു ഭാവത്തിന്റെ ദേവനാണ് ?",
             "imgUrl":"/assets/Images/shiva-epic.png",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Creation",
-                    "textMal": "മൂലം"
+                    "textMal": "സൃഷ്ടി"
                 },
                 {
                     "id": "2",
                     "textEng": "Preservation",
-                    "textMal": "ഉത്രാടം"
+                    "textMal": "സ്ഥിതി"
                 },
                 {
                     "id": "3",
                     "textEng": "Destruction",
-                    "textMal": "ഓണം കഴിഞ്ഞിട്ട്"
+                    "textMal": "സംഹാരം"
                 },
                 {
                     "id": "4",
                     "textEng": "Happiness",
-                    "textMal": "ഓണത്തിന് മുന്നേ"
+                    "textMal": "സന്തോഷം"
                 }
             ],
             "correctAns": "3",
             "givenAns" : "",
             "ansReasonEng":"Lord Shiva is also known as Samhara Murthi - The God of Destruction",
-            "ansReasonMal":"മൂലം നാളിലാണ് ചതുരത്തിൽ പൂക്കളം ഇടുന്നതു"
+            "ansReasonMal":"ഭഗവാൻ പരമശിവൻ സംഹാര മൂർത്തി എന്നും അറിയപ്പെടുന്നു"
         },
         {
             "id": 2,
             "points": 1,
             "questionEng": "Which is the divine abode of Lord Shiva",
-            "questionMal": "ഏതു നാളിലാണ് പൂക്കളം പരമാവധി വലിപ്പത്തിലിടുന്നത് ?",
+            "questionMal": "ഭഗവാൻ പരമശിവന്റെ വാസ സ്ഥലം?",
             "imgUrl":"https://images-na.ssl-images-amazon.com/images/I/61lOvQcOMHL._SL1169_.jpg",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Vaikuntam",
-                    "textMal": "മൂലം"
+                    "textMal": "വൈകുണ്ഠമ്മ് "
                 },
                 {
                     "id": "2",
                     "textEng": "Paradise(Swarga lokam)",
-                    "textMal": "ഉത്രാടം"
+                    "textMal": "സ്വർഗ്ഗ ലോകം"
                 },
                 {
                     "id": "3",
                     "textEng": "Kailasa",
-                    "textMal": "വ്യാഴം"
+                    "textMal": "കൈലാസം"
                 },
                 {
                     "id": "4",
                     "textEng": "Ayodhya",
-                    "textMal": "വെള്ളി"
+                    "textMal": "അയോദ്ധ്യ"
                 }
             ],
             "correctAns": "3",
             "givenAns" : "",
             "ansReasonEng":"Mount Kailasa is the abode of Shiva",
-            "ansReasonMal":"ഉത്രാടം നാളിലാണ് (ഒന്നാം ഓണം , തിരുവോണത്തിന്റെ തലേ ദിവസം ) അത്തപ്പൂക്കളം ഏറ്റവും വലുതായി ഇടുന്നതു"
+            "ansReasonMal":"ഭഗവാൻ പരമശിവന്റെ വാസ സ്ഥലം കൈലാസ പർവ്വതത്തിലാണ്"
         },
         {
             "id": 3,
             "points": 1,
             "questionEng": "Shiva as the great cosmic teacher is known by the name ?",
-            "questionMal": "ആർക്കു വേണ്ടിയാണ് 28 ആം ഓണം ആഘോഷിക്കുന്നത്?",
+            "questionMal": "ഭഗവാൻ പരമശിവന്റെ ഏതു ഭാവമാണ് പ്രപഞ്ച ഗുരു എന്നറിയപ്പെടുന്നത് ?",
             "imgUrl":"http://mahaperiyavaa.blog/wp-content/uploads/2013/05/lord-dakshinamurthy.jpg",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Rudra",
-                    "textMal": "മനുഷ്യർ"
+                    "textMal": "രുദ്ര ഭാവം"
                 },
                 {
                     "id": "2",
                     "textEng": "Neelakanta",
-                    "textMal": "ദൈവങ്ങൾ"
+                    "textMal": "നീലകണ്ഠ"
                 },
                 {
                     "id": "3",
                     "textEng": "Dakshinamurti",
-                    "textMal": "അസുരന്മാർ"
+                    "textMal": "ദക്ഷിണാമൂർത്തി ഭാവം"
                 },
                 {
                     "id": "4",
                     "textEng": "Kalabhairav",
-                    "textMal": "കന്നുകാലികൾ"
+                    "textMal": "കാലഭൈരവ ഭാവം"
                 }
             ],
             "correctAns": "3",
             "givenAns" : "",
             "ansReasonEng":"All above are different forms of Shiva. But, Dakshinamurthi is Shiva's form as a cosmic teacher. This form represents Shiva as a teacher of yoga, music, and wisdom, and giving exposition on the Sastras.",
-            "ansReasonMal":"തിരുവോണം കഴിഞ്ഞു 28 ആം നാളിലാണ് 28 ആം ഓണം ആഘോഷിക്കുന്നത്... കന്നുകാലികൾക്ക് വേണ്ടിയാണ് ഈ ഒരു ആഘോഷം.. ഓച്ചിറ അമ്പലത്തിൽ ഇത് വലിയ രീതിയിൽ ആണ് ആഘോഷിക്കപ്പെടുന്നത്"
+            "ansReasonMal":"മുകളിൽ പറഞ്ഞവ എല്ലാം തന്നെ ശിവ ഭഗവാന്റെ ഭാവങ്ങളാണ്. എന്നിരുന്നാലും ദക്ഷിണ മൂർത്തി ഭാവത്തിലാണ് യോഗ , സംഗീതം , ശാസ്ത്രങ്ങൾ എല്ലാം ലോകർക്ക് പ്രദാനം ചെയ്തിട്ടുള്ളത്."
         },
         {
             "id": 4,
             "points": 1,
             "questionEng": "The three flying cities that Shiva destroyed was known as",
-            "questionMal": "മഹാബലിയുടെ പുത്രന്റെ പേര് ?",
+            "questionMal": "ശിവഭഗവാൻ ഏതു പറക്കുന്ന പട്ടണങ്ങളെ ആണ് നശിപ്പിക്കേണ്ടി വന്നത് ?",
             "imgUrl":"https://2.bp.blogspot.com/-EgheMrVRuIA/WIBVLvcQYlI/AAAAAAAAAu0/E1odn8uft6IfPO6WI0lpafwEpRmVCTkgQCLcB/s1600/Tripura-Mayasura-lord--shiva.jpg",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Tripura",
-                    "textMal": "കശ്യപ മഹർഷി"
+                    "textMal": "ത്രിപുര"
                 },
                 {
                     "id": "2",
                     "textEng": "Lanka",
-                    "textMal": "പ്രഹ്ളാദൻ"
+                    "textMal": "ലങ്ക"
                 },
                 {
                     "id": "3",
                     "textEng": "Indralok",
-                    "textMal": "ധൃഷ്ടധ്യുമ്നൻ"
+                    "textMal": "ഇന്ദ്രലോക്"
                 },
                 {
                     "id": "4",
                     "textEng": "Meru",
-                    "textMal": "ബാണാസുരൻ"
+                    "textMal": "മേരു"
                 }
             ],
             "correctAns": "1",
             "givenAns" : "",
-            "ansReasonEng":"Tripura, meaning three cities, was constructed by the great Asura architect Mayasura.They were great cities of prosperity, power and dominance over the world, but due to their impious nature, Maya's cities were destroyed by god Tripurantaka, an aspect of Shiva.",
-            "ansReasonMal":"മഹാബലിയുടെ പുത്രന്റെ പേര് ബാണാസുരൻ എന്നാണ്... മഹാബലിയുടെ പിതാവ് വിരോചനനും, മുത്തച്ഛൻ പ്രഹ്ളാദനും ആകുന്നു"
+            "ansReasonEng":"Tripura, meaning three cities, was constructed by the great Asura architect Mayasura.They were great cities of prosperity, power and dominance over the world, but due to their impious nature, Maya's cities had to be destroyed by god Tripurantaka, an aspect of Shiva.",
+            "ansReasonMal":""
         },
         {
             "id": 5,
             "points": 1,
             "questionEng": "Nandi is found facing Shivling in all Shiva temples. But between Nandi and Shiva, there is also another murti. Which is it?",
-            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "questionMal": "അമ്പലങ്ങളിൽ ശിവ ഭഗവാന്റെയും നന്ദി ഭഗവാന്റെയും ഇടയ്ക്കു ഒരു മൂർത്തി കാണപ്പെടും. ഏതു മൂർത്തി ആണത് ?",
             "imgUrl":"http://kannadigaworld.com/wp-content/uploads/2015/10/75.jpg",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Ganga",
-                    "textMal": "10"
+                    "textMal": "ഗംഗ"
                 },
                 {
                     "id": "2",
                     "textEng": "Kurma",
-                    "textMal": "5"
+                    "textMal": "കൂർമ്മ"
                 },
                 {
                     "id": "3",
                     "textEng": "Ganesha",
-                    "textMal": "4"
+                    "textMal": "ഗണപതി"
                 },
                 {
                     "id": "4",
                     "textEng": "Murugan",
-                    "textMal": "2"
+                    "textMal": "മുരുഗൻ "
                 }
             ],
             "correctAns": "2",
             "givenAns" : "",
             "ansReasonEng":"Kurma murti / Tortise can be found between Nandi and Shiva. Have a closer look next time.",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+            "ansReasonMal":""
         },
         {
             "id": 6,
             "points": 1,
             "questionEng": "The Bow of Shiva is known as",
-            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "questionMal": "ശിവ ഭഗവാന്റെ വില്ല് ?",
             "imgUrl":"https://realityriftblog.files.wordpress.com/2017/06/shivadhanush.jpg",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Parashu",
-                    "textMal": "10"
+                    "textMal": "പരശു"
                 },
                 {
                     "id": "2",
                     "textEng": "Gandhiva",
-                    "textMal": "5"
+                    "textMal": "ഗാന്ധിവ"
                 },
                 {
                     "id": "3",
                     "textEng": "Pinaka",
-                    "textMal": "4"
+                    "textMal": "പിനാക"
                 },
                 {
                     "id": "4",
                     "textEng": "Chandrahasa",
-                    "textMal": "2"
+                    "textMal": "ചന്ദ്രഹാസം"
                 }
             ],
             "correctAns": "3",
             "givenAns" : "",
             "ansReasonEng":"Pinaka was the bow that Sri Ram broke during the Swayamvara in the Ramayana to marry Sita. And, Indian Army has a Multi Barrel Rocket launcher by this name. ",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+            "ansReasonMal":""
         },
         {
             "id": 7,
             "points": 1,
             "questionEng": "The leaves and fruits of which tree is dear to Shiva",
-            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "questionMal": "ഏതു ചെടിയുടെ ഇലയും ഫലവും ആണ് ശിവ ഭഗവാന് ഇഷ്ടപ്പെട്ടത്?",
             "imgUrl":"https://www.awaaznation.com/wp-content/uploads/2018/02/25014564_162464951175497_5077354159435415552_n.jpg",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Mango",
-                    "textMal": "10"
+                    "textMal": "മാങ്ങാ"
                 },
                 {
                     "id": "2",
                     "textEng": "Tulsi",
-                    "textMal": "5"
+                    "textMal": "തുളസി"
                 },
                 {
                     "id": "3",
                     "textEng": "Bilva",
-                    "textMal": "4"
+                    "textMal": "കൂവളം"
                 },
                 {
                     "id": "4",
                     "textEng": "Jackfruit",
-                    "textMal": "2"
+                    "textMal": "ചക്ക"
                 }
             ],
             "correctAns": "3",
             "givenAns" : "",
-            "ansReasonEng":"Bilva or Vilva is called Kuvalam",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+            "ansReasonEng":"Bilva or Vilva is also called Kuvalam in Malayalam",
+            "ansReasonMal":""
         },
         {
             "id": 8,
             "points": 1,
             "questionEng": "In which form is Shiva known as Lord of Time?",
-            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "questionMal": "പരമശിവന്റെ ഏതു ഭാവത്തിലാണ് സമയത്തിന്റെ അധിപനായി അറിയപ്പെടുന്നത് ?",
             "imgUrl":"https://awakeningtimes.com/wp-content/uploads/2018/05/shiva-679x459.jpg",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Rudra",
-                    "textMal": "10"
+                    "textMal": "രുദ്ര"
                 },
                 {
                     "id": "2",
                     "textEng": "Mahadev",
-                    "textMal": "5"
+                    "textMal": "മഹാദേവ"
                 },
                 {
                     "id": "3",
                     "textEng": "Mahakala",
-                    "textMal": "4"
+                    "textMal": "മഹാകാല"
                 },
                 {
                     "id": "4",
                     "textEng": "Ardanarishwara",
-                    "textMal": "2"
+                    "textMal": "അർധനാരീശ്വരി"
                 }
             ],
             "correctAns": "3",
             "givenAns" : "",
             "ansReasonEng":"",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+            "ansReasonMal":""
         },
         {
             "id": 9,
             "points": 1,
             "questionEng": "Shiva drank the poison that appeared during the Samudra Manthan (churning of ocean) and he came to be known as ?",
-            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "questionMal": "സമുദ്ര മദന സമയത്തു വിഷം പാനം ചെയ്തതിൽ നിന്നും ഭഗവാൻ പരമശിവന് ലഭിച്ച നാമം ?",
             "imgUrl":"https://i2.wp.com/www.holestoheavens.com/wp-content/uploads/2019/01/Santanu-Santan-Kumar.png?fit=1282%2C734&ssl=1",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Trilochan",
-                    "textMal": "10"
+                    "textMal": "ത്രിലോചകൻ"
                 },
                 {
                     "id": "2",
                     "textEng": "Kapardin",
-                    "textMal": "5"
+                    "textMal": "കപർദിനി"
                 },
                 {
                     "id": "3",
                     "textEng": "Bhairava",
-                    "textMal": "4"
+                    "textMal": "ഭൈരവ"
                 },
                 {
                     "id": "4",
                     "textEng": "Neelakantha",
-                    "textMal": "2"
+                    "textMal": "നീലകണ്‌ഠ"
                 }
             ],
             "correctAns": "4",
             "givenAns" : "",
             "ansReasonEng":"",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+            "ansReasonMal":""
         },
         {
             "id": 10,
-            "points": 1,
-            "questionEng": "How do u plan to celebrate this Shivarathri ? This is a opinioon question. Point is awarded to all answers",
-            "questionMal": "മഹാവിഷ്ണുവിന്റെ എത്രാമത്തെ അവതാരമാണ് വാമനൻ?",
+            "points": 10,
+            "questionEng": "How do u plan to celebrate this Shivarathri ? This is a opinion question. Point is awarded to all answers",
+            "questionMal": "ഈ ശിവരാത്രി മഹോത്സാവം എങ്ങനെ ആഘോഷിക്കാനാണ് ഇഷ്ടപ്പെടുന്നത് ? എല്ലാ ഉത്തരവും ശെരിയാണ്. ഇതൊരു poll question ആണ്.",
             "imgUrl":"https://images.indianexpress.com/2019/03/maha-shivratri_feature.jpg",
             "options": [
                 {
                     "id": "1",
                     "textEng": "Meditation",
-                    "textMal": "10"
+                    "textMal": "ധ്യാനം"
                 },
                 {
                     "id": "1",
                     "textEng": "Fasting",
-                    "textMal": "5"
+                    "textMal": "വ്രതം"
                 },
                 {
                     "id": "1",
                     "textEng": "Going to Temple",
-                    "textMal": "4"
+                    "textMal": "അമ്പലത്തിൽ പോയി"
                 },
                 {
                     "id": "1",
                     "textEng": "Chant Mantras",
-                    "textMal": "2"
+                    "textMal": "മന്ത്ര ജപത്തോടു കൂടി"
                 }
             ],
             "correctAns": "1",
             "givenAns" : "",
             "ansReasonEng":"Happy Maha Shiva Rathri All. May you achieve greatness with Lord Shiva's blessing.",
-            "ansReasonMal":"മഹാവിഷ്ണുവിന്റെ അഞ്ചാമത്തെ അവതാരമാണ് വാമനൻ. <br/> (1)മത്സ്യ (2)കൂർമ്മ (3)വരാഹശ്ച, (4)നരസിംഹശ്ച (5)വാമന, <br/> (6)രാമോ (7)രാമ (8)രാമശ്ച, (9)ശ്രീ കൃഷ്ണ (10)കൽക്കി ജനാർദ്ധന."
+            "ansReasonMal":"എല്ലാവര്ക്കും ശിവരാത്രി ആശംസകൾ നേരുന്നു."
         }
     ]
 }
