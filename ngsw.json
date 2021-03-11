@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1615422281673,
+  "timestamp": 1615423191087,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -93,7 +93,7 @@
   "hashTable": {
     "/4.368a6a4b4e5d330a6dcc.js": "c03ecf6d691961aa404863bd2524ef402472c5bc",
     "/assets/Data/Quiz/Corona-Quiz.json": "26f625a54b08329736d6ab037add17232fce70f9",
-    "/assets/Data/Quiz/MahaShivaRathri-Quiz.json": "403c9fdf1bb7ee9c03bd8051528f61a5b44f1ca1",
+    "/assets/Data/Quiz/MahaShivaRathri-Quiz.json": "4535c69f8f80e99a702bd864ba7743b60722c6c1",
     "/assets/Data/Quiz/Onam-Quiz.json": "ce9a2cf32ac9435896b76535ef58ef590a1c5aae",
     "/assets/Data/Quiz/Ramayanam-Quiz.json": "3f04cf2c40451138e28ea06251ea4b68655f082e",
     "/assets/Data/Quiz/allQuiz.json": "bff1df751af5fd5dad060a0f2b61f4697d3a38c2",
