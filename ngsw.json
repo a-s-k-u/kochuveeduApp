@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1615958709360,
+  "timestamp": 1615961166856,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/4.368a6a4b4e5d330a6dcc.js",
+        "/4.8a9496b2ed4f07b7c745.js",
         "/combined-sw.js",
         "/favicon.ico",
         "/firebase-messaging-sw.js",
         "/index.html",
-        "/main.070bfba8c7c51170573e.js",
+        "/main.05fb8e7a4735da9e957b.js",
         "/manifest.webmanifest",
         "/polyfills.25f0f5febeda0fd4d106.js",
-        "/runtime.2b5b9768abcfd860b478.js",
+        "/runtime.d91c438282c0a6381b5f.js",
         "/scripts.24b16eee7a6c3bd1d2dc.js",
         "/styles.1674d6d99605af445d14.css"
       ],
@@ -130,7 +130,7 @@
     "/07.535b98d8b10c9c1713fb.png": "078e49f4fa97e117da76cbef2b492e8cf92d0d45",
     "/08.83eb2c7e2892a66afe14.png": "b3916a95cb81602b7bd41eaefa92eb3a8fd39b70",
     "/09.2012ae6071a90778f12d.png": "4d1c1ec2c710745ddcc43fdd0ae41d3095398a77",
-    "/4.368a6a4b4e5d330a6dcc.js": "c03ecf6d691961aa404863bd2524ef402472c5bc",
+    "/4.8a9496b2ed4f07b7c745.js": "e51eb4cdcfe229788b521a8ed285f65bb3440cf5",
     "/arrow_left.db6e2d88c7c35a775ce4.svg": "fb5b615955042a7c6aa16b1f0e8dcbdb279a8ac0",
     "/arrow_right.f7c6ac6d310d3b82f0a0.svg": "fac5123a15d035a642b74740b89636e2ace09810",
     "/assets/Data/Quiz/Corona-Quiz.json": "26f625a54b08329736d6ab037add17232fce70f9",
@@ -207,11 +207,11 @@
     "/fa-solid-900.f4f93856730733912b1e.woff": "18d9a334e7184ae08e3a1c0468afb56a2a5b51cc",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/firebase-messaging-sw.js": "607ccf51f66c1a0d12781a174bedfbb3186cef46",
-    "/index.html": "9644b425b971fa2cecbc0877a6b45922ec1caf05",
-    "/main.070bfba8c7c51170573e.js": "52f916bc99c5c29d271a50323a0be78819b1e3d7",
+    "/index.html": "b5b784a13c367727fba6a808ba0aebda7ae50c0b",
+    "/main.05fb8e7a4735da9e957b.js": "b213b7a7077241775ab4b4c0d2a8ceb33c670c4b",
     "/manifest.webmanifest": "85613dd7d948b43bca19049ece40e8d0975d0ce7",
     "/polyfills.25f0f5febeda0fd4d106.js": "c0a90ad18c5d78e88361db1364ac8564b1ceea89",
-    "/runtime.2b5b9768abcfd860b478.js": "84b52baca93f93d67c8aa04dd970535b9cac9f6d",
+    "/runtime.d91c438282c0a6381b5f.js": "28999e5d7f7377ff828ccfbd4ee8da42ee4b1023",
     "/scripts.24b16eee7a6c3bd1d2dc.js": "e2e9cc82af11c97781ec2ab6840afb709de7445e",
     "/styles.1674d6d99605af445d14.css": "8dcc441ba1494183efc01e4c403eb70062d68d4d"
   },
