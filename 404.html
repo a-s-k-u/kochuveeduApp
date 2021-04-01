@@ -1,111 +1,47 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Kochuveedu</title>
-  <base href="/">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
-  <link rel="icon" type="image/x-icon" href="/assets/Images/kochuveedu.ico">
-  <link href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" rel="stylesheet" crossorigin="anonymous"/>
-  <!-- Font Awesome -->
-<link
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
-rel="stylesheet"
-/>
-<!-- Google Fonts -->
-<link
-href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
-rel="stylesheet"
-/>
-<!-- MDB -->
-<link
-href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.3.0/mdb.min.css"
-rel="stylesheet"
-/>
-  
-  <!--<link href="/styles.css" rel="stylesheet" crossorigin="anonymous" />-->
-  <style>
-      
+<script>
 
-  .swiper-button-prev1 {
-    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%234c71ae'%2F%3E%3C%2Fsvg%3E") !important;
-  }
+    const path = window.location.pathname;
+    //console.log("path set from 404 file = " + path);
+    var re = new RegExp('/chats/\\w+/\\w+'); 
+    var re2 = new RegExp('/quiz');
+    var re3 = new RegExp('/familyTree');
+    var re4 = new RegExp('/activity');
+    var re5 = new RegExp('/activities');
+    var re6 = new RegExp('/familyCalendar');
+    var re7 = new RegExp('/dashboard');
+    var re8 = new RegExp('/polls');
+    var re9 = new RegExp('/products');
+    var re10 = new RegExp('/pendingActivities');
+    var re11 = new RegExp('/myAccount');
+    var re12 = new RegExp('/allUsers');
+    var re13 = new RegExp('/pendingTransactions');
+    var re14 = new RegExp('/allTransactions');
+    var re15 = new RegExp("/userDetails");
+    var re16 = new RegExp("/news");
+    var re17 = new RegExp("/notifications");
+    var re18 = new RegExp("/latestNews");
+    var re19 = new RegExp("/stories");
+    var re20 = new RegExp("/pics");
+    var re21 = new RegExp("/signin");
 
-  
-  .swiper-button-next1 {
-    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%234c71ae'%2F%3E%3C%2Fsvg%3E") !important;
-  }
-
-  
-.cover-container {
-  max-width: 200px;
-}
-
-
-.swiper-button-next,
-.swiper-button-prev {
-    background-color: white !important;
-    background-color: rgba(255, 255, 255, 0.5) !important;
-    /*right:10px !important;
-    margin:0 !important;
-    padding: 3px !important;
-    width:2px !important;*/
-    color: #000 !important;
-    fill: black !important;
-    stroke: black !important;
-    font-size:"20px" !important;
-}
-.--swiper-navigation-size{
-    font-size: small !important;
-}
-.swiper-button-next1,
-.swiper-button-prev1 {
-    background-color: white !important;
-    background-color: rgba(255, 255, 255, 0.5) !important;
-    /*right:10px !important;
-    margin:0 !important;
-    padding: 3px !important;
-    width:2px !important;*/
-    color: #000 !important;
-    fill: black !important;
-    stroke: black !important;
-    font-size:"10px" !important;
-}
-
-  </style>
-  <link rel="manifest" href="manifest.webmanifest">
-  <meta name="theme-color" content="#1976d2">
-<link rel="stylesheet" href="styles.c4966145d8b5a022f413.css"></head>
-<body class="sb-nav-fixed">
-  <div class="cover-container1 d-flex w-100 h-100 p-3 mx-auto flex-column">
-    <app-root></app-root>
-  </div>
-  <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
-  <!--<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>-->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" crossorigin="anonymous"></script>
-  <!-- MDB -->
-<script
-type="text/javascript"
-src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.3.0/mdb.min.js"
-></script>
-  <!--<script src="https://unpkg.com/rough-viz@1.0.6"></script>-->
- <script>
-    (function($) {
-    "use strict";
-    /*
-    alert('hi');
-    console.log("inside document load");
-    if (firebase.apps.length === 0) {
-      console.log("inside document load - initialising firebase");
-      firebase.initializeApp(environment.firebaseConfig);
-    };
-    */
-
-    })(jQuery);
+    var isValidURL = (re.test(path) || re2.test(path) 
+    || re3.test(path)|| re4.test(path) 
+    || re5.test(path) || re6.test(path) 
+    || re7.test(path) || re8.test(path) 
+    || re9.test(path) || re10.test(path) 
+    || re11.test(path) || re12.test(path) 
+    || re13.test(path) || re14.test(path) 
+    || re15.test(path) || re16.test(path) 
+    || re17.test(path) || re18.test(path) 
+    || re19.test(path) || re20.test(path) 
+    || re21.test(path) );
+    if (isValidURL){
+        localStorage.setItem('path', path);
+        //alert("valid url and path =" + path);
+    }
+    //console.log("path from 404 html - " + localStorage.getItem('path'));
+    //alert("path from 404 html - " + localStorage.getItem('path'));
+    
+    window.location.href='../';
 
 </script>
-  <noscript>Please enable JavaScript to continue using this application.</noscript>
-<script src="runtime.d91c438282c0a6381b5f.js" defer></script><script src="polyfills.25f0f5febeda0fd4d106.js" defer></script><script src="scripts.24b16eee7a6c3bd1d2dc.js" defer></script><script src="main.016d977a591a81776c9c.js" defer></script></body>
-</html>
